@@ -1,0 +1,27 @@
+C:\Users\pc\Desktop\TestingStuff\Voice Recognition\Voice Recognition\obj\Debug\Voice_Recognition.SpeechRecognizer.resources
+C:\Users\pc\Desktop\TestingStuff\Voice Recognition\Voice Recognition\obj\Debug\Voice_Recognition.Properties.Resources.resources
+C:\Users\pc\Desktop\TestingStuff\Voice Recognition\Voice Recognition\obj\Debug\Voice Recognition.csproj.GenerateResource.Cache
+C:\Users\pc\Desktop\TestingStuff\Voice Recognition\Voice Recognition\bin\Debug\Voice Recognition.exe.config
+C:\Users\pc\Desktop\TestingStuff\Voice Recognition\Voice Recognition\bin\Debug\Voice Recognition.exe
+C:\Users\pc\Desktop\TestingStuff\Voice Recognition\Voice Recognition\bin\Debug\Voice Recognition.pdb
+C:\Users\pc\Desktop\TestingStuff\Voice Recognition\Voice Recognition\obj\Debug\Voice Recognition.exe
+C:\Users\pc\Desktop\TestingStuff\Voice Recognition\Voice Recognition\obj\Debug\Voice Recognition.pdb
+C:\Users\pc\Desktop\TestingStuff\Voice Recognition\Voice Recognition\obj\Debug\Voice Recognition.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\Voice Recognition-C#\Voice Recognition\bin\Debug\Voice Recognition.exe.config
+C:\Users\pc\Desktop\Voice Recognition-C#\Voice Recognition\obj\Debug\Voice Recognition.exe
+C:\Users\pc\Desktop\Voice Recognition-C#\Voice Recognition\obj\Debug\Voice Recognition.pdb
+C:\Users\pc\Desktop\Voice Recognition-C#\Voice Recognition\bin\Debug\Voice Recognition.exe
+C:\Users\pc\Desktop\Voice Recognition-C#\Voice Recognition\bin\Debug\Voice Recognition.pdb
+C:\Users\pc\Desktop\Voice Recognition-C#\Voice Recognition\obj\Debug\Voice Recognition.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\Voice Recognition-C#\Voice Recognition\obj\Debug\Voice_Recognition.SpeechRecognizer.resources
+C:\Users\pc\Desktop\Voice Recognition-C#\Voice Recognition\obj\Debug\Voice_Recognition.Properties.Resources.resources
+C:\Users\pc\Desktop\Voice Recognition-C#\Voice Recognition\obj\Debug\Voice Recognition.csproj.GenerateResource.Cache
+D:\(Sample Projects)\Nimantha\Sample Projects\Voice Recognition-C#\Voice Recognition\bin\Debug\Voice Recognition.exe.config
+D:\(Sample Projects)\Nimantha\Sample Projects\Voice Recognition-C#\Voice Recognition\obj\Debug\Voice Recognition.exe
+D:\(Sample Projects)\Nimantha\Sample Projects\Voice Recognition-C#\Voice Recognition\obj\Debug\Voice Recognition.pdb
+D:\(Sample Projects)\Nimantha\Sample Projects\Voice Recognition-C#\Voice Recognition\bin\Debug\Voice Recognition.exe
+D:\(Sample Projects)\Nimantha\Sample Projects\Voice Recognition-C#\Voice Recognition\bin\Debug\Voice Recognition.pdb
+D:\(Sample Projects)\Nimantha\Sample Projects\Voice Recognition-C#\Voice Recognition\obj\Debug\Voice Recognition.csprojResolveAssemblyReference.cache
+D:\(Sample Projects)\Nimantha\Sample Projects\Voice Recognition-C#\Voice Recognition\obj\Debug\Voice_Recognition.SpeechRecognizer.resources
+D:\(Sample Projects)\Nimantha\Sample Projects\Voice Recognition-C#\Voice Recognition\obj\Debug\Voice_Recognition.Properties.Resources.resources
+D:\(Sample Projects)\Nimantha\Sample Projects\Voice Recognition-C#\Voice Recognition\obj\Debug\Voice Recognition.csproj.GenerateResource.Cache
