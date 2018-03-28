@@ -1,0 +1,13 @@
+F:\(Projects)\(Testing)\TyperWriterEffectAnimationTest\TyperWriterEffectAnimationTest\bin\Debug\TyperWriterEffectAnimationTest.exe.config
+F:\(Projects)\(Testing)\TyperWriterEffectAnimationTest\TyperWriterEffectAnimationTest\bin\Debug\TyperWriterEffectAnimationTest.exe
+F:\(Projects)\(Testing)\TyperWriterEffectAnimationTest\TyperWriterEffectAnimationTest\bin\Debug\TyperWriterEffectAnimationTest.pdb
+F:\(Projects)\(Testing)\TyperWriterEffectAnimationTest\TyperWriterEffectAnimationTest\obj\Debug\TyperWriterEffectAnimationTest.csprojResolveAssemblyReference.cache
+F:\(Projects)\(Testing)\TyperWriterEffectAnimationTest\TyperWriterEffectAnimationTest\obj\Debug\MainWindow.baml
+F:\(Projects)\(Testing)\TyperWriterEffectAnimationTest\TyperWriterEffectAnimationTest\obj\Debug\MainWindow.g.cs
+F:\(Projects)\(Testing)\TyperWriterEffectAnimationTest\TyperWriterEffectAnimationTest\obj\Debug\App.g.cs
+F:\(Projects)\(Testing)\TyperWriterEffectAnimationTest\TyperWriterEffectAnimationTest\obj\Debug\TyperWriterEffectAnimationTest_MarkupCompile.cache
+F:\(Projects)\(Testing)\TyperWriterEffectAnimationTest\TyperWriterEffectAnimationTest\obj\Debug\TyperWriterEffectAnimationTest.g.resources
+F:\(Projects)\(Testing)\TyperWriterEffectAnimationTest\TyperWriterEffectAnimationTest\obj\Debug\TyperWriterEffectAnimationTest.Properties.Resources.resources
+F:\(Projects)\(Testing)\TyperWriterEffectAnimationTest\TyperWriterEffectAnimationTest\obj\Debug\TyperWriterEffectAnimationTest.csproj.GenerateResource.Cache
+F:\(Projects)\(Testing)\TyperWriterEffectAnimationTest\TyperWriterEffectAnimationTest\obj\Debug\TyperWriterEffectAnimationTest.exe
+F:\(Projects)\(Testing)\TyperWriterEffectAnimationTest\TyperWriterEffectAnimationTest\obj\Debug\TyperWriterEffectAnimationTest.pdb
