@@ -1,0 +1,39 @@
+c:\users\toshiba t\documents\visual studio 2013\Projects\WPF_Video\WPF_Video\bin\Debug\WPF_Video.exe.config
+c:\users\toshiba t\documents\visual studio 2013\Projects\WPF_Video\WPF_Video\bin\Debug\WPF_Video.exe
+c:\users\toshiba t\documents\visual studio 2013\Projects\WPF_Video\WPF_Video\bin\Debug\WPF_Video.pdb
+c:\users\toshiba t\documents\visual studio 2013\Projects\WPF_Video\WPF_Video\obj\Debug\MainWindow.baml
+c:\users\toshiba t\documents\visual studio 2013\Projects\WPF_Video\WPF_Video\obj\Debug\MainWindow.g.cs
+c:\users\toshiba t\documents\visual studio 2013\Projects\WPF_Video\WPF_Video\obj\Debug\App.g.cs
+c:\users\toshiba t\documents\visual studio 2013\Projects\WPF_Video\WPF_Video\obj\Debug\WPF_Video_MarkupCompile.cache
+c:\users\toshiba t\documents\visual studio 2013\Projects\WPF_Video\WPF_Video\obj\Debug\WPF_Video.g.resources
+c:\users\toshiba t\documents\visual studio 2013\Projects\WPF_Video\WPF_Video\obj\Debug\WPF_Video.Properties.Resources.resources
+c:\users\toshiba t\documents\visual studio 2013\Projects\WPF_Video\WPF_Video\obj\Debug\WPF_Video.csproj.GenerateResource.Cache
+c:\users\toshiba t\documents\visual studio 2013\Projects\WPF_Video\WPF_Video\obj\Debug\WPF_Video.exe
+c:\users\toshiba t\documents\visual studio 2013\Projects\WPF_Video\WPF_Video\obj\Debug\WPF_Video.pdb
+C:\Users\toshiba t\Documents\Visual Studio 2013\Projects\WPF_Video\WPF_Video\obj\Debug\WPF_Video.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\WPF_Video\WPF_Video\bin\Debug\WPF_Video.exe.config
+C:\Users\pc\Desktop\WPF_Video\WPF_Video\obj\Debug\WPF_Video.exe
+C:\Users\pc\Desktop\WPF_Video\WPF_Video\obj\Debug\WPF_Video.pdb
+C:\Users\pc\Desktop\WPF_Video\WPF_Video\bin\Debug\WPF_Video.exe
+C:\Users\pc\Desktop\WPF_Video\WPF_Video\bin\Debug\WPF_Video.pdb
+C:\Users\pc\Desktop\WPF_Video\WPF_Video\obj\Debug\WPF_Video.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\WPF_Video\WPF_Video\obj\Debug\MainWindow.baml
+C:\Users\pc\Desktop\WPF_Video\WPF_Video\obj\Debug\MainWindow.g.cs
+C:\Users\pc\Desktop\WPF_Video\WPF_Video\obj\Debug\App.g.cs
+C:\Users\pc\Desktop\WPF_Video\WPF_Video\obj\Debug\WPF_Video_MarkupCompile.cache
+C:\Users\pc\Desktop\WPF_Video\WPF_Video\obj\Debug\WPF_Video.g.resources
+C:\Users\pc\Desktop\WPF_Video\WPF_Video\obj\Debug\WPF_Video.Properties.Resources.resources
+C:\Users\pc\Desktop\WPF_Video\WPF_Video\obj\Debug\WPF_Video.csproj.GenerateResource.Cache
+D:\(Sample Projects)\Nimantha\Sample Projects\WPF_Video\WPF_Video\bin\Debug\WPF_Video.exe.config
+D:\(Sample Projects)\Nimantha\Sample Projects\WPF_Video\WPF_Video\obj\Debug\WPF_Video.exe
+D:\(Sample Projects)\Nimantha\Sample Projects\WPF_Video\WPF_Video\obj\Debug\WPF_Video.pdb
+D:\(Sample Projects)\Nimantha\Sample Projects\WPF_Video\WPF_Video\bin\Debug\WPF_Video.exe
+D:\(Sample Projects)\Nimantha\Sample Projects\WPF_Video\WPF_Video\bin\Debug\WPF_Video.pdb
+D:\(Sample Projects)\Nimantha\Sample Projects\WPF_Video\WPF_Video\obj\Debug\WPF_Video.csprojResolveAssemblyReference.cache
+D:\(Sample Projects)\Nimantha\Sample Projects\WPF_Video\WPF_Video\obj\Debug\MainWindow.baml
+D:\(Sample Projects)\Nimantha\Sample Projects\WPF_Video\WPF_Video\obj\Debug\MainWindow.g.cs
+D:\(Sample Projects)\Nimantha\Sample Projects\WPF_Video\WPF_Video\obj\Debug\App.g.cs
+D:\(Sample Projects)\Nimantha\Sample Projects\WPF_Video\WPF_Video\obj\Debug\WPF_Video_MarkupCompile.cache
+D:\(Sample Projects)\Nimantha\Sample Projects\WPF_Video\WPF_Video\obj\Debug\WPF_Video.g.resources
+D:\(Sample Projects)\Nimantha\Sample Projects\WPF_Video\WPF_Video\obj\Debug\WPF_Video.Properties.Resources.resources
+D:\(Sample Projects)\Nimantha\Sample Projects\WPF_Video\WPF_Video\obj\Debug\WPF_Video.csproj.GenerateResource.Cache

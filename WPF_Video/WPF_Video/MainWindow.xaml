@@ -1,0 +1,92 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="d" x:Class="WPF_Video.MainWindow"
+        Title="Video Player" Height="506.716" Width="1095.149" ResizeMode="CanMinimize">
+    <Grid Background="#FF6E6A6A">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="20*"/>
+            <ColumnDefinition Width="80*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="85*"/>
+            <RowDefinition Height="15*"/>
+        </Grid.RowDefinitions>
+        <ListView x:Name="listviewitems" AllowDrop="True" Margin="0,10" Drop="ListView_Drop" Background="White" DragEnter="ListView_DragEnter" RenderTransformOrigin="0.5,0.5" PreviewMouseLeftButtonUp="listviewitems_PreviewMouseLeftButtonUp">
+            <ListView.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </ListView.RenderTransform>
+        </ListView>
+        <MediaElement x:Name="video" HorizontalAlignment="Left" Height="376" Margin="6,0,0,0" VerticalAlignment="Top" Width="835" MediaEnded="video_MediaEnded" MediaOpened="video_MediaOpened" Grid.Column="1" LoadedBehavior="Manual" MouseDown="video_MouseDown" Stretch="Fill"/>
+        <Label x:Name="duration" Content="" Margin="713,5,8,39" Grid.Row="1" Grid.Column="1" RenderTransformOrigin="0.414,0.629">
+            <Label.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-0.277"/>
+                    <TranslateTransform X="-0.07" Y="-0.174"/>
+                </TransformGroup>
+            </Label.RenderTransform>
+        </Label>
+        <!-- <StackPanel x:Name="SpSeekbar" HorizontalAlignment="Stretch" Grid.RowSpan="2" Grid.ColumnSpan="2" Margin="0,10,0,0">-->
+        <Grid Grid.Column="1" HorizontalAlignment="Right" Margin="0,388,8,0" VerticalAlignment="Top">
+            <Slider x:Name="seekBar" IsMoveToPointEnabled="True" Thumb.DragStarted="seekBar_DragStarted" Thumb.DragCompleted="seekBar_DragCompleted"   Height="24" Width="838" AutoToolTipPlacement="TopLeft" AutoToolTipPrecision="2" Margin="-2,-6,2,-1"/>
+        </Grid>
+        <!-- </StackPanel>-->
+        <Grid Grid.Column="1" Grid.Row="1" x:Name="playBtnGrid" MouseDown="playBtnGrid_MouseDown" MouseUp="playBtnGrid_MouseUp" Margin="50,7,701,13">
+            <Rectangle Fill="Green" Stroke="Black" Margin="0,0,0,3"  RadiusX="10" RadiusY="10" HorizontalAlignment="Left" Width="109"/>
+            <Label x:Name="playBtnlabel" Foreground="White" Content="Play" HorizontalAlignment="Left" Height="28" Margin="32,9,0,0" VerticalAlignment="Top" FontSize="14" Width="51"/>
+        </Grid>
+        <Grid x:Name="stopBtnGrid" Opacity="0.5" Margin="174,6,589,14" Grid.Column="1" Grid.Row="1" MouseDown="Grid_MouseDown" MouseUp="Grid_MouseUp">
+            <Rectangle Fill="Red" Stroke="Black"  RadiusX="10" RadiusY="10"/>
+            <Label x:Name="stopBtnlabel" Foreground="White" Content="Stop" HorizontalAlignment="Left" Height="34" Margin="29,7,0,0" VerticalAlignment="Top" FontSize="14" Width="50"/>
+        </Grid>
+        <Grid x:Name="backBtnGrid" Margin="289,7,474,13" Grid.Column="1" Grid.Row="1" MouseDown="backBtnGrid_MouseDown" MouseUp="backBtnGrid_MouseUp">
+            <Rectangle Fill="#FF0000E8" Stroke="Black"  RadiusX="10" RadiusY="10"/>
+            <Label Content="Back" Foreground="White" Margin="27,10,19,2" FontSize="14"/>
+        </Grid>
+        <Grid x:Name="nextBtnGrid" Margin="406,7,356,13" Grid.Column="1" Grid.Row="1" MouseDown="nextBtnGrid_MouseDown" MouseUp="nextBtnGrid_MouseUp">
+            <Rectangle Fill="#FF0000E8" Stroke="Black" RadiusX="10" RadiusY="10"/>
+            <Label Content="Next" Foreground="White" Margin="36,10,10,13" FontSize="14"/>
+        </Grid>
+        <Grid x:Name="repeatbtnGrid" Opacity="0.5" Margin="527,8,222,12" Grid.Column="1" Grid.Row="1" MouseDown="repeatbtnGrid_MouseDown" MouseUp="repeatbtnGrid_MouseUp">
+            <Rectangle Fill="CadetBlue" Stroke="Black" RadiusX="10" RadiusY="10"/>
+            <Label Content="Repeat" Foreground="White" Margin="26,9,20,10" FontSize="14" RenderTransformOrigin="0.5,0.5">
+                <Label.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform/>
+                        <SkewTransform AngleY="0.744"/>
+                        <RotateTransform/>
+                        <TranslateTransform Y="-0.487"/>
+                    </TransformGroup>
+                </Label.RenderTransform>
+            </Label>
+        </Grid>
+        <Grid Margin="10,4,11,0" Grid.Row="1" Grid.Column="0">
+            <Grid x:Name="fileOpenGrid" Grid.Column="0" MouseDown="fileOpenGrid_MouseDown" MouseUp="fileOpenGrid_MouseUp" Margin="0,10,121,24" >
+                <Rectangle Fill="#FF0000E8" Stroke="Black" RadiusX="10" RadiusY="10" Height="26" VerticalAlignment="Bottom" Margin="0,0,10,0" />
+                <Label x:Name="fileOpenlabel" Foreground="White" Content="Open" Height="29" Margin="10,4,10,0" VerticalAlignment="Top" FontSize="14" RenderTransformOrigin="-0.179,-0.01"/>
+            </Grid>
+            <Grid x:Name="playlistAddgrid"  MouseDown="playlistAddgrid_MouseDown" MouseUp="playlistAddgrid_MouseUp" Margin="99,0,20,24">
+                <Rectangle Fill="#FF0000E8" Stroke="Black" RadiusX="10" RadiusY="10" Height="26" VerticalAlignment="Bottom" Margin="0,0,10,0" />
+                <Label x:Name="playlistadd" Foreground="White" Content="Add" HorizontalAlignment="Left" Height="26" Margin="15,14,0,0" VerticalAlignment="Top" FontSize="14" Width="42" RenderTransformOrigin="-0.179,-0.01"/>
+            </Grid>
+        </Grid>
+        <Slider x:Name="volumeControl" Minimum="0" Maximum="1" Value="0.5" Grid.Column="1" HorizontalAlignment="Left" Margin="696,46,0,0" Grid.Row="1" VerticalAlignment="Top" Width="102"  ValueChanged="volumeControl_ValueChanged"/>
+        <Label x:Name="volumelbl" Content="" Margin="801,39,3,5" Grid.Row="1" Grid.Column="1" RenderTransformOrigin="0.414,0.629">
+            <Label.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-0.277"/>
+                    <TranslateTransform X="-0.07" Y="-0.174"/>
+                </TransformGroup>
+            </Label.RenderTransform>
+        </Label>
+    </Grid>
+</Window>
