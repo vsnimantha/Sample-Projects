@@ -1,0 +1,13 @@
+C:\Users\pc\Desktop\TestingStuff\TestLanguageInput\TestLanguageInput\bin\Debug\TestLanguageInput.exe.config
+C:\Users\pc\Desktop\TestingStuff\TestLanguageInput\TestLanguageInput\bin\Debug\TestLanguageInput.exe
+C:\Users\pc\Desktop\TestingStuff\TestLanguageInput\TestLanguageInput\bin\Debug\TestLanguageInput.pdb
+C:\Users\pc\Desktop\TestingStuff\TestLanguageInput\TestLanguageInput\obj\Debug\TestLanguageInput.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\TestingStuff\TestLanguageInput\TestLanguageInput\obj\Debug\MainWindow.baml
+C:\Users\pc\Desktop\TestingStuff\TestLanguageInput\TestLanguageInput\obj\Debug\MainWindow.g.cs
+C:\Users\pc\Desktop\TestingStuff\TestLanguageInput\TestLanguageInput\obj\Debug\App.g.cs
+C:\Users\pc\Desktop\TestingStuff\TestLanguageInput\TestLanguageInput\obj\Debug\TestLanguageInput_MarkupCompile.cache
+C:\Users\pc\Desktop\TestingStuff\TestLanguageInput\TestLanguageInput\obj\Debug\TestLanguageInput.g.resources
+C:\Users\pc\Desktop\TestingStuff\TestLanguageInput\TestLanguageInput\obj\Debug\TestLanguageInput.Properties.Resources.resources
+C:\Users\pc\Desktop\TestingStuff\TestLanguageInput\TestLanguageInput\obj\Debug\TestLanguageInput.csproj.GenerateResource.Cache
+C:\Users\pc\Desktop\TestingStuff\TestLanguageInput\TestLanguageInput\obj\Debug\TestLanguageInput.exe
+C:\Users\pc\Desktop\TestingStuff\TestLanguageInput\TestLanguageInput\obj\Debug\TestLanguageInput.pdb

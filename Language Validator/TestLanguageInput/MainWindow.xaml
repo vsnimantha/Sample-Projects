@@ -1,0 +1,10 @@
+﻿<Window x:Class="TestLanguageInput.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <ComboBox x:Name="drpLang" HorizontalAlignment="Left" Margin="147,41,0,0" VerticalAlignment="Top" Width="197" SelectionChanged="drpLang_SelectionChanged"/>
+        <TextBox x:Name="txtInput" HorizontalAlignment="Left" Height="149" Margin="136,113,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="224" TextChanged="txtInput_TextChanged"/>
+
+    </Grid>
+</Window>
