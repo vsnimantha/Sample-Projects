@@ -1,0 +1,430 @@
+[0221/114208:WARNING:spdy_session.cc(2216)] Received HEADERS for invalid stream 11
+[0221/130416:WARNING:spdy_session.cc(2216)] Received HEADERS for invalid stream 3
+[0221/154903:WARNING:spdy_session.cc(2216)] Received HEADERS for invalid stream 9
+[0221/154904:WARNING:spdy_session.cc(2216)] Received HEADERS for invalid stream 3
+[0221/155029:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0221/155029:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0221/164540:WARNING:spdy_session.cc(2216)] Received HEADERS for invalid stream 19
+[0221/164540:WARNING:spdy_session.cc(2216)] Received HEADERS for invalid stream 23
+[0221/164540:WARNING:spdy_session.cc(2216)] Received HEADERS for invalid stream 25
+[0221/165028:WARNING:spdy_session.cc(2216)] Received HEADERS for invalid stream 13
+[0221/165031:WARNING:spdy_session.cc(2216)] Received HEADERS for invalid stream 15
+[0221/165031:WARNING:spdy_session.cc(2216)] Received HEADERS for invalid stream 17
+[0221/165032:WARNING:spdy_session.cc(2216)] Received HEADERS for invalid stream 19
+[0221/165033:WARNING:spdy_session.cc(2216)] Received HEADERS for invalid stream 21
+[0221/165033:WARNING:spdy_session.cc(2216)] Received HEADERS for invalid stream 23
+[0221/165033:WARNING:spdy_session.cc(2216)] Received HEADERS for invalid stream 25
+[0221/165034:WARNING:spdy_session.cc(2216)] Received HEADERS for invalid stream 27
+[0221/165036:WARNING:spdy_session.cc(2216)] Received HEADERS for invalid stream 29
+[0221/165036:WARNING:spdy_session.cc(2216)] Received HEADERS for invalid stream 31
+[0221/165036:WARNING:spdy_session.cc(2216)] Received HEADERS for invalid stream 33
+[0221/165038:WARNING:spdy_session.cc(2216)] Received HEADERS for invalid stream 35
+[0221/165534:WARNING:spdy_session.cc(2216)] Received HEADERS for invalid stream 1
+[0221/165602:WARNING:stunport.cc(411)] STUN server address is incompatible.
+[0221/165602:WARNING:p2ptransportchannel.cc(493)] Jingle:Port[0000029BED7DB620:sdparta_0:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(1, 65536) failed: 0
+[0221/165602:WARNING:p2ptransportchannel.cc(493)] Jingle:Port[0000029BED7DB620:sdparta_0:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(2, 65536) failed: 0
+[0221/165602:WARNING:p2ptransportchannel.cc(493)] Jingle:Port[0000029BED7DB620:sdparta_0:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0221/165602:WARNING:p2ptransportchannel.cc(493)] Jingle:Port[0000029BED7DB9B0:sdparta_0:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(1, 65536) failed: 0
+[0221/165602:WARNING:p2ptransportchannel.cc(493)] Jingle:Port[0000029BED7DB9B0:sdparta_0:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(2, 65536) failed: 0
+[0221/165602:WARNING:p2ptransportchannel.cc(493)] Jingle:Port[0000029BED7DB9B0:sdparta_0:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0221/165602:WARNING:turnport.cc(684)] Jingle:Port[0000029BED857920:sdparta_0:1:0:relay:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: TURN host lookup received error 0
+[0221/165602:WARNING:turnport.cc(387)] Socket is bound to a different address:192.168.0.103, rather then the local port:0.0.0.0. Still allowing it since it's any address, possibly caused by multiple_routes being disabled.
+[0221/165602:WARNING:webrtcsession.cc(1557)] Candidate has an unknown component: Cand[:0:2:udp:2122187006:192.168.0.110:56219:local::0:::0:0:0] for content: sdparta_0
+[0221/165602:WARNING:webrtcsession.cc(1557)] Candidate has an unknown component: Cand[:4:2:udp:2122252542:192.168.56.1:56220:local::0:::0:0:0] for content: sdparta_0
+[0221/165602:WARNING:webrtcsession.cc(1557)] Candidate has an unknown component: Cand[:8:2:udp:2122121470:[2001::338d:7fb:46a:ebe:8814:f1c1]:56221:local::0:::0:0:0] for content: sdparta_0
+[0221/165602:WARNING:webrtcsession.cc(1557)] Candidate has an unknown component: Cand[:1:2:udp:1685987326:119.235.14.62:56219:stun:192.168.0.110:56219:::0:0:0] for content: sdparta_0
+[0221/165602:WARNING:webrtcsession.cc(1557)] Candidate has an unknown component: Cand[:3:2:udp:92151550:117.20.41.137:11444:relay:117.20.41.137:11444:::0:0:0] for content: sdparta_0
+[0221/165603:WARNING:basicportallocator.cc(696)] Discarding candidate because port is already done gathering.
+[0221/165603:WARNING:turnport.cc(387)] Socket is bound to a different address:192.168.0.103, rather then the local port:0.0.0.0. Still allowing it since it's any address, possibly caused by multiple_routes being disabled.
+[0221/165603:WARNING:webrtcsession.cc(1557)] Candidate has an unknown component: Cand[:12:2:udp:8265726:117.20.41.137:15939:relay:117.20.41.137:15939:::0:0:0] for content: sdparta_0
+[0221/165603:WARNING:basicportallocator.cc(696)] Discarding candidate because port is already done gathering.
+[0221/171947:ERROR:simple_sources.cc(32)] Failed to read 1 as input to the fake device.
+[0221/171947:WARNING:fake_video_capture_device_factory.cc(96)] Forget a value '1'? Use name=value for use-fake-device-for-media-stream.
+[0221/171947:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0221/171951:ERROR:simple_sources.cc(32)] Failed to read 1 as input to the fake device.
+[0221/171951:WARNING:fake_video_capture_device_factory.cc(96)] Forget a value '1'? Use name=value for use-fake-device-for-media-stream.
+[0221/171953:WARNING:mediasession.cc(350)] Duplicate id found. Reassigning from 101 to 127
+[0221/171953:WARNING:stunport.cc(411)] STUN server address is incompatible.
+[0221/171953:WARNING:stunport.cc(411)] STUN server address is incompatible.
+[0221/171953:WARNING:stunport.cc(411)] STUN server address is incompatible.
+[0221/171953:WARNING:stunport.cc(411)] STUN server address is incompatible.
+[0221/171953:WARNING:turnport.cc(684)] Jingle:Port[0000022679868A10:audio:1:0:relay:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: TURN host lookup received error 0
+[0221/171953:WARNING:turnport.cc(684)] Jingle:Port[000002267986A0D0:audio:2:0:relay:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: TURN host lookup received error 0
+[0221/171953:WARNING:turnport.cc(684)] Jingle:Port[0000022677F08ED0:video:1:0:relay:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: TURN host lookup received error 0
+[0221/171953:WARNING:turnport.cc(684)] Jingle:Port[0000022679873CE0:video:2:0:relay:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: TURN host lookup received error 0
+[0221/171953:WARNING:p2ptransportchannel.cc(493)] Jingle:Port[0000022677C7DC80:audio:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0221/171953:WARNING:p2ptransportchannel.cc(493)] Jingle:Port[0000022677C33510:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0221/171953:WARNING:p2ptransportchannel.cc(493)] Jingle:Port[0000022677EDFBE0:audio:2:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0221/171953:WARNING:p2ptransportchannel.cc(493)] Jingle:Port[00000226777EE620:audio:2:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0221/171953:WARNING:p2ptransportchannel.cc(493)] Jingle:Port[0000022677C4FFF0:video:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(1, 65536) failed: 0
+[0221/171953:WARNING:p2ptransportchannel.cc(493)] Jingle:Port[0000022677C4FFF0:video:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(2, 65536) failed: 0
+[0221/171953:WARNING:p2ptransportchannel.cc(493)] Jingle:Port[0000022677C4FFF0:video:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0221/171953:WARNING:p2ptransportchannel.cc(493)] Jingle:Port[00000226777B8950:video:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(1, 65536) failed: 0
+[0221/171953:WARNING:p2ptransportchannel.cc(493)] Jingle:Port[00000226777B8950:video:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(2, 65536) failed: 0
+[0221/171953:WARNING:p2ptransportchannel.cc(493)] Jingle:Port[00000226777B8950:video:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0221/171953:WARNING:p2ptransportchannel.cc(493)] Jingle:Port[0000022679871FF0:video:2:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0221/171953:WARNING:p2ptransportchannel.cc(493)] Jingle:Port[0000022679872380:video:2:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0221/171954:WARNING:stunport.cc(411)] STUN server address is incompatible.
+[0221/171954:WARNING:turnport.cc(684)] Jingle:Port[000002267988CAE0:audio:1:0:relay:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: TURN host lookup received error 0
+[0221/171954:WARNING:p2ptransportchannel.cc(493)] Jingle:Port[0000022677D891B0:audio:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(1, 65536) failed: 0
+[0221/171954:WARNING:p2ptransportchannel.cc(493)] Jingle:Port[0000022677D891B0:audio:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(2, 65536) failed: 0
+[0221/171954:WARNING:p2ptransportchannel.cc(493)] Jingle:Port[0000022677D891B0:audio:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0221/171954:WARNING:p2ptransportchannel.cc(493)] Jingle:Port[0000022677D3F620:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(1, 65536) failed: 0
+[0221/171954:WARNING:p2ptransportchannel.cc(493)] Jingle:Port[0000022677D3F620:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(2, 65536) failed: 0
+[0221/171954:WARNING:p2ptransportchannel.cc(493)] Jingle:Port[0000022677D3F620:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0221/171954:WARNING:turnport.cc(387)] Socket is bound to a different address:192.168.0.103, rather then the local port:0.0.0.0. Still allowing it since it's any address, possibly caused by multiple_routes being disabled.
+[0221/171954:WARNING:turnport.cc(387)] Socket is bound to a different address:192.168.0.103, rather then the local port:0.0.0.0. Still allowing it since it's any address, possibly caused by multiple_routes being disabled.
+[0221/171954:WARNING:turnport.cc(387)] Socket is bound to a different address:192.168.0.103, rather then the local port:0.0.0.0. Still allowing it since it's any address, possibly caused by multiple_routes being disabled.
+[0221/171954:WARNING:turnport.cc(387)] Socket is bound to a different address:192.168.0.103, rather then the local port:0.0.0.0. Still allowing it since it's any address, possibly caused by multiple_routes being disabled.
+[0221/171954:WARNING:turnport.cc(387)] Socket is bound to a different address:192.168.0.103, rather then the local port:0.0.0.0. Still allowing it since it's any address, possibly caused by multiple_routes being disabled.
+[0221/171955:WARNING:webrtcsession.cc(1557)] Candidate has an unknown component: Cand[:3755041903:2:udp:2122255102:[2001::338d:7fb:46a:ebe:8814:f1c1]:65147:local::0:zqYP::3:50:0] for content: audio
+[0221/171955:WARNING:webrtcsession.cc(1557)] Candidate has an unknown component: Cand[:2999745851:2:udp:2122194686:192.168.56.1:65148:local::0:zqYP::1:0:0] for content: audio
+[0221/171955:WARNING:webrtcsession.cc(1557)] Candidate has an unknown component: Cand[:1114595702:2:udp:2122129150:192.168.0.110:65149:local::0:zqYP::2:10:0] for content: audio
+[0221/171955:WARNING:p2ptransportchannel.cc(945)] SetOption(1, 65536) failed: 0
+[0221/171955:WARNING:p2ptransportchannel.cc(945)] SetOption(1, 65536) failed: 0
+[0221/171955:WARNING:p2ptransportchannel.cc(945)] SetOption(2, 65536) failed: 0
+[0221/171955:WARNING:p2ptransportchannel.cc(945)] SetOption(2, 65536) failed: 0
+[0221/171955:WARNING:basicportallocator.cc(696)] Discarding candidate because port is already done gathering.
+[0221/171955:WARNING:basicportallocator.cc(696)] Discarding candidate because port is already done gathering.
+[0221/171955:WARNING:turnport.cc(387)] Socket is bound to a different address:192.168.0.103, rather then the local port:0.0.0.0. Still allowing it since it's any address, possibly caused by multiple_routes being disabled.
+[0221/171956:WARNING:turnport.cc(387)] Socket is bound to a different address:192.168.0.103, rather then the local port:0.0.0.0. Still allowing it since it's any address, possibly caused by multiple_routes being disabled.
+[0221/171956:WARNING:basicportallocator.cc(696)] Discarding candidate because port is already done gathering.
+[0221/171956:WARNING:webrtcsession.cc(1557)] Candidate has an unknown component: Cand[:3274139586:2:udp:1685921534:119.235.14.62:65149:stun:192.168.0.110:65149:zqYP::2:10:0] for content: audio
+[0221/171956:WARNING:webrtcsession.cc(1557)] Candidate has an unknown component: Cand[:4063006349:2:udp:41754878:117.20.41.136:48032:relay:119.235.14.62:65149:zqYP::2:10:0] for content: audio
+[0221/171956:WARNING:webrtcsession.cc(1557)] Candidate has an unknown component: Cand[:3165614717:2:udp:24977406:117.20.41.136:61236:relay:119.235.14.62:6375:zqYP::2:10:0] for content: audio
+[0221/171956:WARNING:mediasession.cc(350)] Duplicate id found. Reassigning from 101 to 127
+[0221/171956:WARNING:basicportallocator.cc(696)] Discarding candidate because port is already done gathering.
+[0221/171956:WARNING:stunport.cc(411)] STUN server address is incompatible.
+[0221/171956:WARNING:stunport.cc(411)] STUN server address is incompatible.
+[0221/171956:WARNING:stunport.cc(411)] STUN server address is incompatible.
+[0221/171956:WARNING:stunport.cc(411)] STUN server address is incompatible.
+[0221/171956:WARNING:turnport.cc(684)] Jingle:Port[000002267B0BCD10:audio:1:0:relay:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: TURN host lookup received error 0
+[0221/171956:WARNING:turnport.cc(684)] Jingle:Port[000002267B0BB000:audio:2:0:relay:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: TURN host lookup received error 0
+[0221/171956:WARNING:turnport.cc(684)] Jingle:Port[000002267B137DB0:video:1:0:relay:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: TURN host lookup received error 0
+[0221/171956:WARNING:turnport.cc(684)] Jingle:Port[000002267B135AD0:video:2:0:relay:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: TURN host lookup received error 0
+[0221/171956:WARNING:p2ptransportchannel.cc(493)] Jingle:Port[000002267B03AF20:audio:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0221/171956:WARNING:p2ptransportchannel.cc(493)] Jingle:Port[0000022679C68C70:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0221/171956:WARNING:p2ptransportchannel.cc(493)] Jingle:Port[0000022677C4FFF0:audio:2:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0221/171956:WARNING:p2ptransportchannel.cc(493)] Jingle:Port[0000022679C92A70:audio:2:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0221/171956:WARNING:p2ptransportchannel.cc(493)] Jingle:Port[0000022677EB6F10:video:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(1, 65536) failed: 0
+[0221/171956:WARNING:p2ptransportchannel.cc(493)] Jingle:Port[0000022677EB6F10:video:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(2, 65536) failed: 0
+[0221/171956:WARNING:p2ptransportchannel.cc(493)] Jingle:Port[0000022677EB6F10:video:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0221/171956:WARNING:p2ptransportchannel.cc(493)] Jingle:Port[0000022677EED7F0:video:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(1, 65536) failed: 0
+[0221/171956:WARNING:p2ptransportchannel.cc(493)] Jingle:Port[0000022677EED7F0:video:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(2, 65536) failed: 0
+[0221/171956:WARNING:p2ptransportchannel.cc(493)] Jingle:Port[0000022677EED7F0:video:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0221/171956:WARNING:p2ptransportchannel.cc(493)] Jingle:Port[000002267B0AD780:video:2:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0221/171956:WARNING:p2ptransportchannel.cc(493)] Jingle:Port[000002267AC02470:video:2:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0221/171957:WARNING:basicportallocator.cc(696)] Discarding candidate because port is already done gathering.
+[0221/171957:WARNING:turnport.cc(387)] Socket is bound to a different address:192.168.0.103, rather then the local port:0.0.0.0. Still allowing it since it's any address, possibly caused by multiple_routes being disabled.
+[0221/171957:WARNING:turnport.cc(387)] Socket is bound to a different address:192.168.0.103, rather then the local port:0.0.0.0. Still allowing it since it's any address, possibly caused by multiple_routes being disabled.
+[0221/171957:WARNING:turnport.cc(387)] Socket is bound to a different address:192.168.0.103, rather then the local port:0.0.0.0. Still allowing it since it's any address, possibly caused by multiple_routes being disabled.
+[0221/171957:WARNING:turnport.cc(387)] Socket is bound to a different address:192.168.0.103, rather then the local port:0.0.0.0. Still allowing it since it's any address, possibly caused by multiple_routes being disabled.
+[0221/171958:WARNING:turnport.cc(387)] Socket is bound to a different address:192.168.0.103, rather then the local port:0.0.0.0. Still allowing it since it's any address, possibly caused by multiple_routes being disabled.
+[0221/171958:WARNING:turnport.cc(387)] Socket is bound to a different address:192.168.0.103, rather then the local port:0.0.0.0. Still allowing it since it's any address, possibly caused by multiple_routes being disabled.
+[0221/171958:WARNING:turnport.cc(387)] Socket is bound to a different address:192.168.0.103, rather then the local port:0.0.0.0. Still allowing it since it's any address, possibly caused by multiple_routes being disabled.
+[0221/171958:WARNING:turnport.cc(387)] Socket is bound to a different address:192.168.0.103, rather then the local port:0.0.0.0. Still allowing it since it's any address, possibly caused by multiple_routes being disabled.
+[0221/171959:WARNING:p2ptransportchannel.cc(945)] SetOption(1, 65536) failed: 0
+[0221/171959:WARNING:p2ptransportchannel.cc(945)] SetOption(1, 65536) failed: 0
+[0221/171959:WARNING:p2ptransportchannel.cc(945)] SetOption(2, 65536) failed: 0
+[0221/171959:WARNING:p2ptransportchannel.cc(945)] SetOption(2, 65536) failed: 0
+[0221/172206:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0221/172206:WARNING:rtp_rtcp_impl.cc(338)] Failed to send RTCP BYE
+[0221/172206:WARNING:rtp_rtcp_impl.cc(338)] Failed to send RTCP BYE
+[0221/172206:WARNING:audio_sync_reader.cc(166)] AudioSyncReader::Read timed out, audio glitch count=1
+[0221/172206:WARNING:rtpsender.cc(230)] ClearAudioSend: No audio channel exists.
+[0221/172206:WARNING:rtpsender.cc(384)] SetVideoSend: No video channel exists.
+[0221/172206:WARNING:rtpsender.cc(230)] ClearAudioSend: No audio channel exists.
+[0221/172206:WARNING:rtpsender.cc(384)] SetVideoSend: No video channel exists.
+[0221/172307:ERROR:simple_sources.cc(32)] Failed to read 1 as input to the fake device.
+[0221/172307:WARNING:fake_video_capture_device_factory.cc(96)] Forget a value '1'? Use name=value for use-fake-device-for-media-stream.
+[0221/172309:WARNING:mediasession.cc(350)] Duplicate id found. Reassigning from 101 to 127
+[0221/172309:WARNING:stunport.cc(411)] STUN server address is incompatible.
+[0221/172309:WARNING:stunport.cc(411)] STUN server address is incompatible.
+[0221/172309:WARNING:stunport.cc(411)] STUN server address is incompatible.
+[0221/172309:WARNING:stunport.cc(411)] STUN server address is incompatible.
+[0221/172309:WARNING:turnport.cc(684)] Jingle:Port[00000128457172A0:audio:1:0:relay:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: TURN host lookup received error 0
+[0221/172309:WARNING:turnport.cc(684)] Jingle:Port[000001284571BDC0:audio:2:0:relay:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: TURN host lookup received error 0
+[0221/172309:WARNING:turnport.cc(684)] Jingle:Port[00000128473B33F0:video:1:0:relay:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: TURN host lookup received error 0
+[0221/172309:WARNING:turnport.cc(684)] Jingle:Port[0000012845667550:video:2:0:relay:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: TURN host lookup received error 0
+[0221/172309:WARNING:p2ptransportchannel.cc(493)] Jingle:Port[00000128457270A0:audio:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0221/172309:WARNING:p2ptransportchannel.cc(493)] Jingle:Port[00000128457265F0:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0221/172309:WARNING:p2ptransportchannel.cc(493)] Jingle:Port[0000012845726D10:audio:2:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0221/172309:WARNING:p2ptransportchannel.cc(493)] Jingle:Port[0000012845727430:audio:2:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0221/172309:WARNING:p2ptransportchannel.cc(493)] Jingle:Port[00000128457277C0:video:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(1, 65536) failed: 0
+[0221/172309:WARNING:p2ptransportchannel.cc(493)] Jingle:Port[00000128457277C0:video:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(2, 65536) failed: 0
+[0221/172309:WARNING:p2ptransportchannel.cc(493)] Jingle:Port[00000128457277C0:video:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0221/172309:WARNING:p2ptransportchannel.cc(493)] Jingle:Port[0000012845726260:video:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(1, 65536) failed: 0
+[0221/172309:WARNING:p2ptransportchannel.cc(493)] Jingle:Port[0000012845726260:video:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(2, 65536) failed: 0
+[0221/172309:WARNING:p2ptransportchannel.cc(493)] Jingle:Port[0000012845726260:video:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0221/172309:WARNING:p2ptransportchannel.cc(493)] Jingle:Port[0000012845726980:video:2:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0221/172309:WARNING:p2ptransportchannel.cc(493)] Jingle:Port[0000012845727B50:video:2:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0221/172309:WARNING:turnport.cc(387)] Socket is bound to a different address:192.168.0.103, rather then the local port:0.0.0.0. Still allowing it since it's any address, possibly caused by multiple_routes being disabled.
+[0221/172309:WARNING:turnport.cc(387)] Socket is bound to a different address:192.168.0.103, rather then the local port:0.0.0.0. Still allowing it since it's any address, possibly caused by multiple_routes being disabled.
+[0221/172309:WARNING:turnport.cc(387)] Socket is bound to a different address:192.168.0.103, rather then the local port:0.0.0.0. Still allowing it since it's any address, possibly caused by multiple_routes being disabled.
+[0221/172309:WARNING:stunport.cc(411)] STUN server address is incompatible.
+[0221/172309:WARNING:turnport.cc(387)] Socket is bound to a different address:192.168.0.103, rather then the local port:0.0.0.0. Still allowing it since it's any address, possibly caused by multiple_routes being disabled.
+[0221/172309:WARNING:turnport.cc(684)] Jingle:Port[000001284746DD90:audio:1:0:relay:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: TURN host lookup received error 0
+[0221/172309:WARNING:p2ptransportchannel.cc(493)] Jingle:Port[00000128455E60B0:audio:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(1, 65536) failed: 0
+[0221/172309:WARNING:p2ptransportchannel.cc(493)] Jingle:Port[00000128455E60B0:audio:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(2, 65536) failed: 0
+[0221/172309:WARNING:p2ptransportchannel.cc(493)] Jingle:Port[00000128455E60B0:audio:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0221/172309:WARNING:p2ptransportchannel.cc(493)] Jingle:Port[00000128455E6B60:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(1, 65536) failed: 0
+[0221/172309:WARNING:p2ptransportchannel.cc(493)] Jingle:Port[00000128455E6B60:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(2, 65536) failed: 0
+[0221/172309:WARNING:p2ptransportchannel.cc(493)] Jingle:Port[00000128455E6B60:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0221/172310:WARNING:webrtcsession.cc(1557)] Candidate has an unknown component: Cand[:3755041903:2:udp:2122255102:[2001::338d:7fb:46a:ebe:8814:f1c1]:56057:local::0:LhO6::3:50:0] for content: audio
+[0221/172310:WARNING:webrtcsession.cc(1557)] Candidate has an unknown component: Cand[:2999745851:2:udp:2122194686:192.168.56.1:56058:local::0:LhO6::1:0:0] for content: audio
+[0221/172310:WARNING:webrtcsession.cc(1557)] Candidate has an unknown component: Cand[:1114595702:2:udp:2122129150:192.168.0.110:56059:local::0:LhO6::2:10:0] for content: audio
+[0221/172310:WARNING:basicportallocator.cc(696)] Discarding candidate because port is already done gathering.
+[0221/172310:WARNING:turnport.cc(387)] Socket is bound to a different address:192.168.0.103, rather then the local port:0.0.0.0. Still allowing it since it's any address, possibly caused by multiple_routes being disabled.
+[0221/172311:WARNING:turnport.cc(387)] Socket is bound to a different address:192.168.0.103, rather then the local port:0.0.0.0. Still allowing it since it's any address, possibly caused by multiple_routes being disabled.
+[0221/172311:WARNING:turnport.cc(387)] Socket is bound to a different address:192.168.0.103, rather then the local port:0.0.0.0. Still allowing it since it's any address, possibly caused by multiple_routes being disabled.
+[0221/172311:WARNING:turnport.cc(387)] Socket is bound to a different address:192.168.0.103, rather then the local port:0.0.0.0. Still allowing it since it's any address, possibly caused by multiple_routes being disabled.
+[0221/172311:WARNING:mediasession.cc(350)] Duplicate id found. Reassigning from 101 to 127
+[0221/172311:WARNING:stunport.cc(411)] STUN server address is incompatible.
+[0221/172311:WARNING:stunport.cc(411)] STUN server address is incompatible.
+[0221/172311:WARNING:stunport.cc(411)] STUN server address is incompatible.
+[0221/172311:WARNING:stunport.cc(411)] STUN server address is incompatible.
+[0221/172311:WARNING:turnport.cc(387)] Socket is bound to a different address:192.168.0.103, rather then the local port:0.0.0.0. Still allowing it since it's any address, possibly caused by multiple_routes being disabled.
+[0221/172311:WARNING:turnport.cc(684)] Jingle:Port[000001284746D1F0:audio:1:0:relay:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: TURN host lookup received error 0
+[0221/172311:WARNING:turnport.cc(684)] Jingle:Port[00000128474DEF60:audio:2:0:relay:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: TURN host lookup received error 0
+[0221/172311:WARNING:turnport.cc(684)] Jingle:Port[00000128474DC0E0:video:1:0:relay:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: TURN host lookup received error 0
+[0221/172311:WARNING:turnport.cc(684)] Jingle:Port[00000128474DDDF0:video:2:0:relay:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: TURN host lookup received error 0
+[0221/172311:WARNING:p2ptransportchannel.cc(493)] Jingle:Port[00000128455E6440:audio:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0221/172311:WARNING:p2ptransportchannel.cc(493)] Jingle:Port[00000128455E7280:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0221/172311:WARNING:p2ptransportchannel.cc(493)] Jingle:Port[00000128455E6EF0:audio:2:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0221/172311:WARNING:p2ptransportchannel.cc(493)] Jingle:Port[00000128455E79A0:audio:2:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0221/172311:WARNING:p2ptransportchannel.cc(493)] Jingle:Port[00000128455E67D0:video:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(1, 65536) failed: 0
+[0221/172311:WARNING:p2ptransportchannel.cc(493)] Jingle:Port[00000128455E67D0:video:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(2, 65536) failed: 0
+[0221/172311:WARNING:p2ptransportchannel.cc(493)] Jingle:Port[00000128455E67D0:video:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0221/172311:WARNING:p2ptransportchannel.cc(493)] Jingle:Port[00000128455E7610:video:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(1, 65536) failed: 0
+[0221/172311:WARNING:p2ptransportchannel.cc(493)] Jingle:Port[00000128455E7610:video:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(2, 65536) failed: 0
+[0221/172311:WARNING:p2ptransportchannel.cc(493)] Jingle:Port[00000128455E7610:video:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0221/172311:WARNING:p2ptransportchannel.cc(493)] Jingle:Port[00000128474FF640:video:2:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0221/172311:WARNING:p2ptransportchannel.cc(493)] Jingle:Port[0000012847500F30:video:2:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0221/172311:WARNING:basicportallocator.cc(696)] Discarding candidate because port is already done gathering.
+[0221/172311:WARNING:webrtcsession.cc(1557)] Candidate has an unknown component: Cand[:3274139586:2:udp:1685921534:119.235.14.62:56059:stun:192.168.0.110:56059:LhO6::2:10:0] for content: audio
+[0221/172311:WARNING:webrtcsession.cc(1557)] Candidate has an unknown component: Cand[:4063006349:2:udp:41754878:117.20.41.136:33456:relay:119.235.14.62:56059:LhO6::2:10:0] for content: audio
+[0221/172311:WARNING:turnport.cc(387)] Socket is bound to a different address:192.168.0.103, rather then the local port:0.0.0.0. Still allowing it since it's any address, possibly caused by multiple_routes being disabled.
+[0221/172311:WARNING:turnport.cc(387)] Socket is bound to a different address:192.168.0.103, rather then the local port:0.0.0.0. Still allowing it since it's any address, possibly caused by multiple_routes being disabled.
+[0221/172311:WARNING:turnport.cc(387)] Socket is bound to a different address:192.168.0.103, rather then the local port:0.0.0.0. Still allowing it since it's any address, possibly caused by multiple_routes being disabled.
+[0221/172311:WARNING:turnport.cc(387)] Socket is bound to a different address:192.168.0.103, rather then the local port:0.0.0.0. Still allowing it since it's any address, possibly caused by multiple_routes being disabled.
+[0221/172312:WARNING:basicportallocator.cc(696)] Discarding candidate because port is already done gathering.
+[0221/172312:WARNING:turnport.cc(387)] Socket is bound to a different address:192.168.0.103, rather then the local port:0.0.0.0. Still allowing it since it's any address, possibly caused by multiple_routes being disabled.
+[0221/172312:WARNING:webrtcsession.cc(1557)] Candidate has an unknown component: Cand[:3165614717:2:udp:24977406:117.20.41.136:11475:relay:119.235.14.62:6466:LhO6::2:10:0] for content: audio
+[0221/172312:WARNING:webrtcsession.cc(1557)] Candidate has an unknown component: Cand[:3165614717:2:udp:8199934:117.20.41.136:26417:relay:119.235.14.62:6474:LhO6::2:10:0] for content: audio
+[0221/172312:WARNING:p2ptransportchannel.cc(945)] SetOption(1, 65536) failed: 0
+[0221/172312:WARNING:p2ptransportchannel.cc(945)] SetOption(1, 65536) failed: 0
+[0221/172312:WARNING:p2ptransportchannel.cc(945)] SetOption(2, 65536) failed: 0
+[0221/172312:WARNING:p2ptransportchannel.cc(945)] SetOption(2, 65536) failed: 0
+[0221/172312:WARNING:turnport.cc(387)] Socket is bound to a different address:192.168.0.103, rather then the local port:0.0.0.0. Still allowing it since it's any address, possibly caused by multiple_routes being disabled.
+[0221/172312:WARNING:turnport.cc(387)] Socket is bound to a different address:192.168.0.103, rather then the local port:0.0.0.0. Still allowing it since it's any address, possibly caused by multiple_routes being disabled.
+[0221/172312:WARNING:turnport.cc(387)] Socket is bound to a different address:192.168.0.103, rather then the local port:0.0.0.0. Still allowing it since it's any address, possibly caused by multiple_routes being disabled.
+[0221/172312:WARNING:turnport.cc(387)] Socket is bound to a different address:192.168.0.103, rather then the local port:0.0.0.0. Still allowing it since it's any address, possibly caused by multiple_routes being disabled.
+[0221/172313:WARNING:p2ptransportchannel.cc(945)] SetOption(1, 65536) failed: 0
+[0221/172313:WARNING:p2ptransportchannel.cc(945)] SetOption(1, 65536) failed: 0
+[0221/172313:WARNING:p2ptransportchannel.cc(945)] SetOption(2, 65536) failed: 0
+[0221/172313:WARNING:p2ptransportchannel.cc(945)] SetOption(2, 65536) failed: 0
+[0221/172313:WARNING:basicportallocator.cc(696)] Discarding candidate because port is already done gathering.
+[0221/172313:WARNING:basicportallocator.cc(696)] Discarding candidate because port is already done gathering.
+[0221/172415:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0221/172415:WARNING:rtp_rtcp_impl.cc(338)] Failed to send RTCP BYE
+[0221/172415:WARNING:rtp_rtcp_impl.cc(338)] Failed to send RTCP BYE
+[0221/172415:WARNING:rtpsender.cc(230)] ClearAudioSend: No audio channel exists.
+[0221/172415:WARNING:rtpsender.cc(384)] SetVideoSend: No video channel exists.
+[0221/172415:WARNING:rtpsender.cc(230)] ClearAudioSend: No audio channel exists.
+[0221/172415:WARNING:rtpsender.cc(384)] SetVideoSend: No video channel exists.
+[0221/172423:ERROR:simple_sources.cc(32)] Failed to read 1 as input to the fake device.
+[0221/172423:WARNING:fake_video_capture_device_factory.cc(96)] Forget a value '1'? Use name=value for use-fake-device-for-media-stream.
+[0221/172426:WARNING:stunport.cc(411)] STUN server address is incompatible.
+[0221/172426:WARNING:turnport.cc(684)] Jingle:Port[000001284743CB00:audio:1:0:relay:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: TURN host lookup received error 0
+[0221/172426:WARNING:p2ptransportchannel.cc(493)] Jingle:Port[00000128489D4680:audio:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(1, 65536) failed: 0
+[0221/172426:WARNING:p2ptransportchannel.cc(493)] Jingle:Port[00000128489D4680:audio:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(2, 65536) failed: 0
+[0221/172426:WARNING:p2ptransportchannel.cc(493)] Jingle:Port[00000128489D4680:audio:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0221/172426:WARNING:p2ptransportchannel.cc(493)] Jingle:Port[00000128489D3F60:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(1, 65536) failed: 0
+[0221/172426:WARNING:p2ptransportchannel.cc(493)] Jingle:Port[00000128489D3F60:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(2, 65536) failed: 0
+[0221/172426:WARNING:p2ptransportchannel.cc(493)] Jingle:Port[00000128489D3F60:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0221/172426:WARNING:webrtcsession.cc(1557)] Candidate has an unknown component: Cand[:3755041903:2:udp:2122255102:[2001::338d:7fb:46a:ebe:8814:f1c1]:56435:local::0:ETim::3:50:0] for content: audio
+[0221/172426:WARNING:webrtcsession.cc(1557)] Candidate has an unknown component: Cand[:2999745851:2:udp:2122194686:192.168.56.1:56436:local::0:ETim::1:0:0] for content: audio
+[0221/172426:WARNING:webrtcsession.cc(1557)] Candidate has an unknown component: Cand[:1114595702:2:udp:2122129150:192.168.0.110:56437:local::0:ETim::2:10:0] for content: audio
+[0221/172426:WARNING:basicportallocator.cc(696)] Discarding candidate because port is already done gathering.
+[0221/172426:WARNING:turnport.cc(387)] Socket is bound to a different address:192.168.0.103, rather then the local port:0.0.0.0. Still allowing it since it's any address, possibly caused by multiple_routes being disabled.
+[0221/172427:WARNING:basicportallocator.cc(696)] Discarding candidate because port is already done gathering.
+[0221/172427:WARNING:mediasession.cc(350)] Duplicate id found. Reassigning from 101 to 127
+[0221/172427:WARNING:stunport.cc(411)] STUN server address is incompatible.
+[0221/172427:WARNING:stunport.cc(411)] STUN server address is incompatible.
+[0221/172427:WARNING:stunport.cc(411)] STUN server address is incompatible.
+[0221/172427:WARNING:stunport.cc(411)] STUN server address is incompatible.
+[0221/172427:WARNING:p2ptransportchannel.cc(493)] Jingle:Port[00000128489D4A10:audio:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0221/172427:WARNING:p2ptransportchannel.cc(493)] Jingle:Port[00000128489D42F0:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0221/172427:WARNING:p2ptransportchannel.cc(493)] Jingle:Port[00000128489D4DA0:audio:2:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0221/172427:WARNING:p2ptransportchannel.cc(493)] Jingle:Port[00000128489D5130:audio:2:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0221/172427:WARNING:p2ptransportchannel.cc(493)] Jingle:Port[00000128489D3BD0:video:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(1, 65536) failed: 0
+[0221/172427:WARNING:p2ptransportchannel.cc(493)] Jingle:Port[00000128489D3BD0:video:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(2, 65536) failed: 0
+[0221/172427:WARNING:p2ptransportchannel.cc(493)] Jingle:Port[00000128489D3BD0:video:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0221/172427:WARNING:p2ptransportchannel.cc(493)] Jingle:Port[00000128489D3840:video:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(1, 65536) failed: 0
+[0221/172427:WARNING:p2ptransportchannel.cc(493)] Jingle:Port[00000128489D3840:video:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(2, 65536) failed: 0
+[0221/172427:WARNING:p2ptransportchannel.cc(493)] Jingle:Port[00000128489D3840:video:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0221/172427:WARNING:p2ptransportchannel.cc(493)] Jingle:Port[000001284578F0B0:video:2:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0221/172427:WARNING:p2ptransportchannel.cc(493)] Jingle:Port[000001284578DEE0:video:2:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0221/172427:WARNING:basicportallocator.cc(696)] Discarding candidate because port is already done gathering.
+[0221/172427:WARNING:turnport.cc(387)] Socket is bound to a different address:192.168.0.103, rather then the local port:0.0.0.0. Still allowing it since it's any address, possibly caused by multiple_routes being disabled.
+[0221/172427:WARNING:mediasession.cc(350)] Duplicate id found. Reassigning from 101 to 127
+[0221/172427:WARNING:stunport.cc(411)] STUN server address is incompatible.
+[0221/172427:WARNING:stunport.cc(411)] STUN server address is incompatible.
+[0221/172427:WARNING:stunport.cc(411)] STUN server address is incompatible.
+[0221/172427:WARNING:stunport.cc(411)] STUN server address is incompatible.
+[0221/172427:WARNING:turnport.cc(684)] Jingle:Port[000001284743A250:audio:1:0:relay:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: TURN host lookup received error 0
+[0221/172427:WARNING:turnport.cc(684)] Jingle:Port[000001284A48EED0:audio:2:0:relay:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: TURN host lookup received error 0
+[0221/172427:WARNING:turnport.cc(684)] Jingle:Port[000001284A494030:video:1:0:relay:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: TURN host lookup received error 0
+[0221/172427:WARNING:turnport.cc(684)] Jingle:Port[000001284A4911B0:video:2:0:relay:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: TURN host lookup received error 0
+[0221/172427:WARNING:turnport.cc(684)] Jingle:Port[000001284A491780:audio:1:0:relay:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: TURN host lookup received error 0
+[0221/172427:WARNING:turnport.cc(684)] Jingle:Port[000001284A492320:audio:2:0:relay:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: TURN host lookup received error 0
+[0221/172427:WARNING:turnport.cc(684)] Jingle:Port[000001284B0DF060:video:1:0:relay:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: TURN host lookup received error 0
+[0221/172427:WARNING:turnport.cc(684)] Jingle:Port[000001284B0E4790:video:2:0:relay:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: TURN host lookup received error 0
+[0221/172427:WARNING:webrtcsession.cc(1557)] Candidate has an unknown component: Cand[:3274139586:2:udp:1685921534:119.235.14.62:56437:stun:192.168.0.110:56437:ETim::2:10:0] for content: audio
+[0221/172427:WARNING:webrtcsession.cc(1557)] Candidate has an unknown component: Cand[:4063006349:2:udp:41754878:117.20.41.136:50236:relay:119.235.14.62:56437:ETim::2:10:0] for content: audio
+[0221/172427:WARNING:p2ptransportchannel.cc(493)] Jingle:Port[0000012845790610:audio:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0221/172427:WARNING:p2ptransportchannel.cc(493)] Jingle:Port[0000012845790280:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0221/172427:WARNING:p2ptransportchannel.cc(493)] Jingle:Port[000001284578F7D0:audio:2:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0221/172427:WARNING:p2ptransportchannel.cc(493)] Jingle:Port[000001284578ED20:audio:2:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0221/172427:WARNING:p2ptransportchannel.cc(493)] Jingle:Port[000001284578CD10:video:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(1, 65536) failed: 0
+[0221/172427:WARNING:p2ptransportchannel.cc(493)] Jingle:Port[000001284578CD10:video:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(2, 65536) failed: 0
+[0221/172427:WARNING:p2ptransportchannel.cc(493)] Jingle:Port[000001284578CD10:video:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0221/172427:WARNING:p2ptransportchannel.cc(493)] Jingle:Port[000001284578E990:video:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(1, 65536) failed: 0
+[0221/172427:WARNING:p2ptransportchannel.cc(493)] Jingle:Port[000001284578E990:video:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(2, 65536) failed: 0
+[0221/172427:WARNING:p2ptransportchannel.cc(493)] Jingle:Port[000001284578E990:video:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0221/172427:WARNING:p2ptransportchannel.cc(493)] Jingle:Port[000001284578FEF0:video:2:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0221/172427:WARNING:p2ptransportchannel.cc(493)] Jingle:Port[000001284578F440:video:2:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0221/172427:WARNING:turnport.cc(387)] Socket is bound to a different address:192.168.0.103, rather then the local port:0.0.0.0. Still allowing it since it's any address, possibly caused by multiple_routes being disabled.
+[0221/172427:WARNING:turnport.cc(387)] Socket is bound to a different address:192.168.0.103, rather then the local port:0.0.0.0. Still allowing it since it's any address, possibly caused by multiple_routes being disabled.
+[0221/172427:WARNING:turnport.cc(387)] Socket is bound to a different address:192.168.0.103, rather then the local port:0.0.0.0. Still allowing it since it's any address, possibly caused by multiple_routes being disabled.
+[0221/172427:WARNING:turnport.cc(387)] Socket is bound to a different address:192.168.0.103, rather then the local port:0.0.0.0. Still allowing it since it's any address, possibly caused by multiple_routes being disabled.
+[0221/172428:WARNING:webrtcsession.cc(1557)] Candidate has an unknown component: Cand[:3165614717:2:udp:24977406:117.20.41.136:15196:relay:119.235.14.62:6510:ETim::2:10:0] for content: audio
+[0221/172428:WARNING:turnport.cc(387)] Socket is bound to a different address:192.168.0.103, rather then the local port:0.0.0.0. Still allowing it since it's any address, possibly caused by multiple_routes being disabled.
+[0221/172428:WARNING:turnport.cc(387)] Socket is bound to a different address:192.168.0.103, rather then the local port:0.0.0.0. Still allowing it since it's any address, possibly caused by multiple_routes being disabled.
+[0221/172428:WARNING:turnport.cc(387)] Socket is bound to a different address:192.168.0.103, rather then the local port:0.0.0.0. Still allowing it since it's any address, possibly caused by multiple_routes being disabled.
+[0221/172428:WARNING:turnport.cc(387)] Socket is bound to a different address:192.168.0.103, rather then the local port:0.0.0.0. Still allowing it since it's any address, possibly caused by multiple_routes being disabled.
+[0221/172428:WARNING:p2ptransportchannel.cc(945)] SetOption(1, 65536) failed: 0
+[0221/172428:WARNING:p2ptransportchannel.cc(945)] SetOption(1, 65536) failed: 0
+[0221/172428:WARNING:p2ptransportchannel.cc(945)] SetOption(2, 65536) failed: 0
+[0221/172428:WARNING:p2ptransportchannel.cc(945)] SetOption(2, 65536) failed: 0
+[0221/172428:WARNING:basicportallocator.cc(696)] Discarding candidate because port is already done gathering.
+[0221/172429:WARNING:turnport.cc(387)] Socket is bound to a different address:192.168.0.103, rather then the local port:0.0.0.0. Still allowing it since it's any address, possibly caused by multiple_routes being disabled.
+[0221/172429:WARNING:turnport.cc(387)] Socket is bound to a different address:192.168.0.103, rather then the local port:0.0.0.0. Still allowing it since it's any address, possibly caused by multiple_routes being disabled.
+[0221/172429:WARNING:turnport.cc(387)] Socket is bound to a different address:192.168.0.103, rather then the local port:0.0.0.0. Still allowing it since it's any address, possibly caused by multiple_routes being disabled.
+[0221/172429:WARNING:turnport.cc(387)] Socket is bound to a different address:192.168.0.103, rather then the local port:0.0.0.0. Still allowing it since it's any address, possibly caused by multiple_routes being disabled.
+[0221/172429:WARNING:turnport.cc(387)] Socket is bound to a different address:192.168.0.103, rather then the local port:0.0.0.0. Still allowing it since it's any address, possibly caused by multiple_routes being disabled.
+[0221/172429:WARNING:p2ptransportchannel.cc(945)] SetOption(1, 65536) failed: 0
+[0221/172429:WARNING:p2ptransportchannel.cc(945)] SetOption(1, 65536) failed: 0
+[0221/172429:WARNING:p2ptransportchannel.cc(945)] SetOption(2, 65536) failed: 0
+[0221/172429:WARNING:p2ptransportchannel.cc(945)] SetOption(2, 65536) failed: 0
+[0221/172429:WARNING:basicportallocator.cc(696)] Discarding candidate because port is already done gathering.
+[0221/172429:WARNING:basicportallocator.cc(696)] Discarding candidate because port is already done gathering.
+[0221/172429:WARNING:basicportallocator.cc(696)] Discarding candidate because port is already done gathering.
+[0221/172429:WARNING:basicportallocator.cc(696)] Discarding candidate because port is already done gathering.
+[0221/172549:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0221/172549:WARNING:rtp_rtcp_impl.cc(338)] Failed to send RTCP BYE
+[0221/172549:WARNING:rtp_rtcp_impl.cc(338)] Failed to send RTCP BYE
+[0221/172549:WARNING:audio_sync_reader.cc(166)] AudioSyncReader::Read timed out, audio glitch count=1
+[0221/172549:WARNING:rtpsender.cc(230)] ClearAudioSend: No audio channel exists.
+[0221/172549:WARNING:rtpsender.cc(384)] SetVideoSend: No video channel exists.
+[0221/172549:WARNING:rtpsender.cc(230)] ClearAudioSend: No audio channel exists.
+[0221/172549:WARNING:rtpsender.cc(384)] SetVideoSend: No video channel exists.
+[0221/172956:WARNING:stunport.cc(411)] STUN server address is incompatible.
+[0221/172956:WARNING:webrtcsession.cc(1557)] Candidate has an unknown component: Cand[:3755041903:2:udp:2122255102:[2001::338d:7fb:46a:ebe:8814:f1c1]:57754:local::0:ybro::3:50:0] for content: audio
+[0221/172956:WARNING:turnport.cc(684)] Jingle:Port[00000217A0AC36C0:audio:1:0:relay:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: TURN host lookup received error 0
+[0221/172956:WARNING:webrtcsession.cc(1557)] Candidate has an unknown component: Cand[:2999745851:2:udp:2122194686:192.168.56.1:57755:local::0:ybro::1:0:0] for content: audio
+[0221/172956:WARNING:p2ptransportchannel.cc(493)] Jingle:Port[00000217A0ACA1C0:audio:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(1, 65536) failed: 0
+[0221/172956:WARNING:p2ptransportchannel.cc(493)] Jingle:Port[00000217A0ACA1C0:audio:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(2, 65536) failed: 0
+[0221/172956:WARNING:p2ptransportchannel.cc(493)] Jingle:Port[00000217A0ACA1C0:audio:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0221/172956:WARNING:p2ptransportchannel.cc(493)] Jingle:Port[00000217A28E6C10:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(1, 65536) failed: 0
+[0221/172956:WARNING:p2ptransportchannel.cc(493)] Jingle:Port[00000217A28E6C10:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(2, 65536) failed: 0
+[0221/172956:WARNING:p2ptransportchannel.cc(493)] Jingle:Port[00000217A28E6C10:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0221/172957:WARNING:webrtcsession.cc(1557)] Candidate has an unknown component: Cand[:1114595702:2:udp:2122129150:192.168.0.110:57756:local::0:ybro::2:10:0] for content: audio
+[0221/172957:WARNING:basicportallocator.cc(696)] Discarding candidate because port is already done gathering.
+[0221/172957:WARNING:turnport.cc(387)] Socket is bound to a different address:192.168.0.103, rather then the local port:0.0.0.0. Still allowing it since it's any address, possibly caused by multiple_routes being disabled.
+[0221/172958:WARNING:webrtcsession.cc(1557)] Candidate has an unknown component: Cand[:3274139586:2:udp:1685921534:119.235.14.62:57756:stun:192.168.0.110:57756:ybro::2:10:0] for content: audio
+[0221/172958:WARNING:basicportallocator.cc(696)] Discarding candidate because port is already done gathering.
+[0221/172958:WARNING:mediasession.cc(350)] Duplicate id found. Reassigning from 101 to 127
+[0221/172958:WARNING:stunport.cc(411)] STUN server address is incompatible.
+[0221/172958:WARNING:stunport.cc(411)] STUN server address is incompatible.
+[0221/172958:WARNING:stunport.cc(411)] STUN server address is incompatible.
+[0221/172958:WARNING:stunport.cc(411)] STUN server address is incompatible.
+[0221/172958:WARNING:turnport.cc(684)] Jingle:Port[00000217A29567D0:audio:1:0:relay:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: TURN host lookup received error 0
+[0221/172958:WARNING:turnport.cc(684)] Jingle:Port[00000217A2ED5FC0:audio:2:0:relay:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: TURN host lookup received error 0
+[0221/172958:WARNING:turnport.cc(684)] Jingle:Port[00000217A2EF6830:video:1:0:relay:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: TURN host lookup received error 0
+[0221/172958:WARNING:turnport.cc(684)] Jingle:Port[00000217A29B0620:video:2:0:relay:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: TURN host lookup received error 0
+[0221/172958:WARNING:p2ptransportchannel.cc(493)] Jingle:Port[00000217A0B579C0:audio:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0221/172958:WARNING:p2ptransportchannel.cc(493)] Jingle:Port[00000217A0748690:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0221/172958:WARNING:p2ptransportchannel.cc(493)] Jingle:Port[00000217A0718FB0:audio:2:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0221/172958:WARNING:p2ptransportchannel.cc(493)] Jingle:Port[00000217A2A23F00:audio:2:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0221/172958:WARNING:p2ptransportchannel.cc(493)] Jingle:Port[00000217A2A24DF0:video:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(1, 65536) failed: 0
+[0221/172958:WARNING:p2ptransportchannel.cc(493)] Jingle:Port[00000217A2A24DF0:video:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(2, 65536) failed: 0
+[0221/172958:WARNING:p2ptransportchannel.cc(493)] Jingle:Port[00000217A2A24DF0:video:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0221/172958:WARNING:p2ptransportchannel.cc(493)] Jingle:Port[00000217A2A25180:video:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(1, 65536) failed: 0
+[0221/172958:WARNING:p2ptransportchannel.cc(493)] Jingle:Port[00000217A2A25180:video:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(2, 65536) failed: 0
+[0221/172958:WARNING:p2ptransportchannel.cc(493)] Jingle:Port[00000217A2A25180:video:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0221/172958:WARNING:p2ptransportchannel.cc(493)] Jingle:Port[00000217A2A32AB0:video:2:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0221/172958:WARNING:p2ptransportchannel.cc(493)] Jingle:Port[00000217A2A34250:video:2:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0221/172958:WARNING:basicportallocator.cc(696)] Discarding candidate because port is already done gathering.
+[0221/172958:WARNING:turnport.cc(387)] Socket is bound to a different address:192.168.0.103, rather then the local port:0.0.0.0. Still allowing it since it's any address, possibly caused by multiple_routes being disabled.
+[0221/172958:WARNING:turnport.cc(387)] Socket is bound to a different address:192.168.0.103, rather then the local port:0.0.0.0. Still allowing it since it's any address, possibly caused by multiple_routes being disabled.
+[0221/172958:WARNING:turnport.cc(387)] Socket is bound to a different address:192.168.0.103, rather then the local port:0.0.0.0. Still allowing it since it's any address, possibly caused by multiple_routes being disabled.
+[0221/172958:WARNING:turnport.cc(387)] Socket is bound to a different address:192.168.0.103, rather then the local port:0.0.0.0. Still allowing it since it's any address, possibly caused by multiple_routes being disabled.
+[0221/172958:WARNING:turnport.cc(387)] Socket is bound to a different address:192.168.0.103, rather then the local port:0.0.0.0. Still allowing it since it's any address, possibly caused by multiple_routes being disabled.
+[0221/172958:WARNING:webrtcsession.cc(1557)] Candidate has an unknown component: Cand[:4063006349:2:udp:41754878:117.20.41.136:57383:relay:119.235.14.62:57756:ybro::2:10:0] for content: audio
+[0221/172958:WARNING:mediasession.cc(350)] Duplicate id found. Reassigning from 101 to 127
+[0221/172958:WARNING:stunport.cc(411)] STUN server address is incompatible.
+[0221/172958:WARNING:stunport.cc(411)] STUN server address is incompatible.
+[0221/172958:WARNING:stunport.cc(411)] STUN server address is incompatible.
+[0221/172958:WARNING:stunport.cc(411)] STUN server address is incompatible.
+[0221/172959:WARNING:turnport.cc(684)] Jingle:Port[00000217A29B1D60:audio:1:0:relay:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: TURN host lookup received error 0
+[0221/172959:WARNING:turnport.cc(684)] Jingle:Port[00000217A2F273B0:audio:2:0:relay:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: TURN host lookup received error 0
+[0221/172959:WARNING:turnport.cc(684)] Jingle:Port[00000217A2F20540:video:1:0:relay:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: TURN host lookup received error 0
+[0221/172959:WARNING:turnport.cc(684)] Jingle:Port[00000217A2F23990:video:2:0:relay:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: TURN host lookup received error 0
+[0221/172959:WARNING:p2ptransportchannel.cc(493)] Jingle:Port[00000217A2A36E10:audio:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0221/172959:WARNING:p2ptransportchannel.cc(493)] Jingle:Port[00000217A2A58C40:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0221/172959:WARNING:p2ptransportchannel.cc(493)] Jingle:Port[00000217A2EF17D0:audio:2:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0221/172959:WARNING:p2ptransportchannel.cc(493)] Jingle:Port[00000217A2A63CE0:audio:2:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0221/172959:WARNING:p2ptransportchannel.cc(493)] Jingle:Port[00000217A2A64070:video:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(1, 65536) failed: 0
+[0221/172959:WARNING:p2ptransportchannel.cc(493)] Jingle:Port[00000217A2A64070:video:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(2, 65536) failed: 0
+[0221/172959:WARNING:p2ptransportchannel.cc(493)] Jingle:Port[00000217A2A64070:video:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0221/172959:WARNING:p2ptransportchannel.cc(493)] Jingle:Port[00000217A28F7950:video:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(1, 65536) failed: 0
+[0221/172959:WARNING:p2ptransportchannel.cc(493)] Jingle:Port[00000217A28F7950:video:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(2, 65536) failed: 0
+[0221/172959:WARNING:p2ptransportchannel.cc(493)] Jingle:Port[00000217A28F7950:video:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0221/172959:WARNING:p2ptransportchannel.cc(493)] Jingle:Port[00000217A28F7CE0:video:2:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0221/172959:WARNING:p2ptransportchannel.cc(493)] Jingle:Port[00000217A2F34360:video:2:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0221/172959:WARNING:p2ptransportchannel.cc(945)] SetOption(1, 65536) failed: 0
+[0221/172959:WARNING:p2ptransportchannel.cc(945)] SetOption(1, 65536) failed: 0
+[0221/172959:WARNING:p2ptransportchannel.cc(945)] SetOption(2, 65536) failed: 0
+[0221/172959:WARNING:p2ptransportchannel.cc(945)] SetOption(2, 65536) failed: 0
+[0221/172959:WARNING:turnport.cc(387)] Socket is bound to a different address:192.168.0.103, rather then the local port:0.0.0.0. Still allowing it since it's any address, possibly caused by multiple_routes being disabled.
+[0221/172959:WARNING:turnport.cc(387)] Socket is bound to a different address:192.168.0.103, rather then the local port:0.0.0.0. Still allowing it since it's any address, possibly caused by multiple_routes being disabled.
+[0221/172959:WARNING:turnport.cc(387)] Socket is bound to a different address:192.168.0.103, rather then the local port:0.0.0.0. Still allowing it since it's any address, possibly caused by multiple_routes being disabled.
+[0221/172959:WARNING:turnport.cc(387)] Socket is bound to a different address:192.168.0.103, rather then the local port:0.0.0.0. Still allowing it since it's any address, possibly caused by multiple_routes being disabled.
+[0221/172959:WARNING:turnport.cc(387)] Socket is bound to a different address:192.168.0.103, rather then the local port:0.0.0.0. Still allowing it since it's any address, possibly caused by multiple_routes being disabled.
+[0221/172959:WARNING:basicportallocator.cc(696)] Discarding candidate because port is already done gathering.
+[0221/172959:WARNING:basicportallocator.cc(696)] Discarding candidate because port is already done gathering.
+[0221/172959:WARNING:p2ptransportchannel.cc(945)] SetOption(1, 65536) failed: 0
+[0221/172959:WARNING:p2ptransportchannel.cc(945)] SetOption(1, 65536) failed: 0
+[0221/172959:WARNING:p2ptransportchannel.cc(945)] SetOption(2, 65536) failed: 0
+[0221/172959:WARNING:p2ptransportchannel.cc(945)] SetOption(2, 65536) failed: 0
+[0221/173000:WARNING:basicportallocator.cc(696)] Discarding candidate because port is already done gathering.
+[0221/173000:WARNING:turnport.cc(387)] Socket is bound to a different address:192.168.0.103, rather then the local port:0.0.0.0. Still allowing it since it's any address, possibly caused by multiple_routes being disabled.
+[0221/173000:WARNING:basicportallocator.cc(696)] Discarding candidate because port is already done gathering.
+[0221/173000:WARNING:basicportallocator.cc(696)] Discarding candidate because port is already done gathering.
+[0221/173000:WARNING:basicportallocator.cc(696)] Discarding candidate because port is already done gathering.
+[0221/173041:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0221/173041:WARNING:rtp_rtcp_impl.cc(338)] Failed to send RTCP BYE
+[0221/173041:WARNING:rtp_rtcp_impl.cc(338)] Failed to send RTCP BYE
+[0221/173041:WARNING:audio_sync_reader.cc(166)] AudioSyncReader::Read timed out, audio glitch count=1
+[0221/173041:WARNING:rtpsender.cc(230)] ClearAudioSend: No audio channel exists.
+[0221/173041:WARNING:rtpsender.cc(384)] SetVideoSend: No video channel exists.
+[0221/173041:WARNING:rtpsender.cc(230)] ClearAudioSend: No audio channel exists.
+[0221/173041:WARNING:rtpsender.cc(384)] SetVideoSend: No video channel exists.
+[0221/174146:WARNING:spdy_session.cc(2216)] Received HEADERS for invalid stream 49
+[0222/085509:WARNING:spdy_session.cc(2216)] Received HEADERS for invalid stream 1
+[0223/162250:WARNING:spdy_session.cc(2216)] Received HEADERS for invalid stream 3
+[0223/162403:WARNING:spdy_session.cc(2216)] Received HEADERS for invalid stream 1
+[0226/093458:WARNING:spdy_session.cc(2216)] Received HEADERS for invalid stream 7
+[0226/093459:WARNING:spdy_session.cc(2216)] Received HEADERS for invalid stream 3
+[0226/093459:WARNING:spdy_session.cc(2216)] Received HEADERS for invalid stream 5
