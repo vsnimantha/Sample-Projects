@@ -1,0 +1,13 @@
+F:\(Projects)\(Testing)\PaintApplication\PaintApplication\bin\Debug\PaintApplication.exe.config
+F:\(Projects)\(Testing)\PaintApplication\PaintApplication\bin\Debug\PaintApplication.exe
+F:\(Projects)\(Testing)\PaintApplication\PaintApplication\bin\Debug\PaintApplication.pdb
+F:\(Projects)\(Testing)\PaintApplication\PaintApplication\obj\Debug\PaintApplication.csprojResolveAssemblyReference.cache
+F:\(Projects)\(Testing)\PaintApplication\PaintApplication\obj\Debug\MainWindow.baml
+F:\(Projects)\(Testing)\PaintApplication\PaintApplication\obj\Debug\MainWindow.g.cs
+F:\(Projects)\(Testing)\PaintApplication\PaintApplication\obj\Debug\App.g.cs
+F:\(Projects)\(Testing)\PaintApplication\PaintApplication\obj\Debug\PaintApplication_MarkupCompile.cache
+F:\(Projects)\(Testing)\PaintApplication\PaintApplication\obj\Debug\PaintApplication.g.resources
+F:\(Projects)\(Testing)\PaintApplication\PaintApplication\obj\Debug\PaintApplication.Properties.Resources.resources
+F:\(Projects)\(Testing)\PaintApplication\PaintApplication\obj\Debug\PaintApplication.csproj.GenerateResource.Cache
+F:\(Projects)\(Testing)\PaintApplication\PaintApplication\obj\Debug\PaintApplication.exe
+F:\(Projects)\(Testing)\PaintApplication\PaintApplication\obj\Debug\PaintApplication.pdb
