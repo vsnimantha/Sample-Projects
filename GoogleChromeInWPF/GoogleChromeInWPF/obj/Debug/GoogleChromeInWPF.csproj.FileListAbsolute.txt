@@ -1,0 +1,1 @@
+C:\Users\pc\Desktop\TestingStuff\GoogleChromeInWPF\GoogleChromeInWPF\bin\Debug\GoogleChromeInWPF.exe.config
