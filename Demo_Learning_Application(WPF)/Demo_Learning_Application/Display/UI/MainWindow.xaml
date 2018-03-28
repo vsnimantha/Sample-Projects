@@ -1,0 +1,8 @@
+﻿<Window x:Class="Demo_Learning_Application.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="{x:Static SystemParameters.PrimaryScreenHeight}" Width="{x:Static SystemParameters.PrimaryScreenWidth}" WindowStartupLocation="CenterScreen" ResizeMode="NoResize" BorderThickness="0" BorderBrush="RoyalBlue" WindowState="Maximized" WindowStyle="None" Topmost="False"  IsTabStop="False">
+    <Grid x:Name="GridMainWindow">
+        
+    </Grid>
+</Window>
