@@ -1,0 +1,27 @@
+c:\users\toshiba t\documents\visual studio 2013\Projects\WPF_Center\WPF_Center\bin\Debug\WPF_Center.exe.config
+c:\users\toshiba t\documents\visual studio 2013\Projects\WPF_Center\WPF_Center\bin\Debug\WPF_Center.exe
+c:\users\toshiba t\documents\visual studio 2013\Projects\WPF_Center\WPF_Center\bin\Debug\WPF_Center.pdb
+c:\users\toshiba t\documents\visual studio 2013\Projects\WPF_Center\WPF_Center\obj\Debug\WPF_Center.csprojResolveAssemblyReference.cache
+c:\users\toshiba t\documents\visual studio 2013\Projects\WPF_Center\WPF_Center\obj\Debug\MainWindow.baml
+c:\users\toshiba t\documents\visual studio 2013\Projects\WPF_Center\WPF_Center\obj\Debug\MainWindow.g.cs
+c:\users\toshiba t\documents\visual studio 2013\Projects\WPF_Center\WPF_Center\obj\Debug\App.g.cs
+c:\users\toshiba t\documents\visual studio 2013\Projects\WPF_Center\WPF_Center\obj\Debug\WPF_Center_MarkupCompile.cache
+c:\users\toshiba t\documents\visual studio 2013\Projects\WPF_Center\WPF_Center\obj\Debug\WPF_Center.g.resources
+c:\users\toshiba t\documents\visual studio 2013\Projects\WPF_Center\WPF_Center\obj\Debug\WPF_Center.Properties.Resources.resources
+c:\users\toshiba t\documents\visual studio 2013\Projects\WPF_Center\WPF_Center\obj\Debug\WPF_Center.csproj.GenerateResource.Cache
+c:\users\toshiba t\documents\visual studio 2013\Projects\WPF_Center\WPF_Center\obj\Debug\WPF_Center.exe
+c:\users\toshiba t\documents\visual studio 2013\Projects\WPF_Center\WPF_Center\obj\Debug\WPF_Center.pdb
+D:\(Sample Projects)\Nimantha\Sample Projects\Animation\WPF_Center\WPF_Center\bin\Debug\WPF_Center.exe.config
+D:\(Sample Projects)\Nimantha\Sample Projects\Animation\WPF_Center\WPF_Center\bin\Debug\WPF_Center.exe
+D:\(Sample Projects)\Nimantha\Sample Projects\Animation\WPF_Center\WPF_Center\bin\Debug\WPF_Center.pdb
+D:\(Sample Projects)\Nimantha\Sample Projects\Animation\WPF_Center\WPF_Center\obj\Debug\WPF_Center.csprojResolveAssemblyReference.cache
+D:\(Sample Projects)\Nimantha\Sample Projects\Animation\WPF_Center\WPF_Center\obj\Debug\MainWindow.baml
+D:\(Sample Projects)\Nimantha\Sample Projects\Animation\WPF_Center\WPF_Center\obj\Debug\MainWindow.g.cs
+D:\(Sample Projects)\Nimantha\Sample Projects\Animation\WPF_Center\WPF_Center\obj\Debug\App.g.cs
+D:\(Sample Projects)\Nimantha\Sample Projects\Animation\WPF_Center\WPF_Center\obj\Debug\WPF_Center_MarkupCompile.cache
+D:\(Sample Projects)\Nimantha\Sample Projects\Animation\WPF_Center\WPF_Center\obj\Debug\WPF_Center.g.resources
+D:\(Sample Projects)\Nimantha\Sample Projects\Animation\WPF_Center\WPF_Center\obj\Debug\WPF_Center.Properties.Resources.resources
+D:\(Sample Projects)\Nimantha\Sample Projects\Animation\WPF_Center\WPF_Center\obj\Debug\WPF_Center.csproj.GenerateResource.Cache
+D:\(Sample Projects)\Nimantha\Sample Projects\Animation\WPF_Center\WPF_Center\obj\Debug\WPF_Center.exe
+D:\(Sample Projects)\Nimantha\Sample Projects\Animation\WPF_Center\WPF_Center\obj\Debug\WPF_Center.pdb
+D:\(Sample Projects)\Nimantha\Sample Projects\Animation\WPF_Center\WPF_Center\bin\Debug\Resources\cr.jpg
