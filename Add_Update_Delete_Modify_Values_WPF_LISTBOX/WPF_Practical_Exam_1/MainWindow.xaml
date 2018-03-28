@@ -1,0 +1,69 @@
+﻿<Window x:Class="WPF_Practical_Exam_1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="WPF PRACTICAL EXAM 1" Height="400" Width="300">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="5*"/>
+            <ColumnDefinition Width="90*"/>
+            <ColumnDefinition Width="5*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="5*"/>
+            <RowDefinition Height="15*"/>
+            <RowDefinition Height="25*"/>
+            <RowDefinition Height="50*"/>
+            <RowDefinition Height="5*"/>
+        </Grid.RowDefinitions>
+
+        <Grid x:Name="GridClock" Grid.Column="1" Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="10*"/>
+                <ColumnDefinition Width="80*"/>
+                <ColumnDefinition Width="10*"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="20*"/>
+                <RowDefinition Height="60*"/>
+                <RowDefinition Height="20*"/>
+            </Grid.RowDefinitions>
+
+            <Label x:Name="LabelClock" Grid.Column="1" Grid.Row="1"></Label>
+        </Grid>
+
+        <Grid x:Name="GridButtonPanel" Grid.Row="2" Grid.Column="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="5*"/>
+                <ColumnDefinition Width="40*"/>
+                <ColumnDefinition Width="10*"/>
+                <ColumnDefinition Width="40*"/>
+                <ColumnDefinition Width="5*"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="5*"/>
+                <RowDefinition Height="40*"/>
+                <RowDefinition Height="10*"/>
+                <RowDefinition Height="40*"/>
+                <RowDefinition Height="5*"/>
+            </Grid.RowDefinitions>
+            <Button x:Name="ButtonAdd" Grid.Row="1" Grid.Column="1" Content="Add" Click="ButtonAdd_Click" />
+            <Button x:Name="ButtonDelete" Grid.Row="3" Grid.Column="1" Content="Delete" Click="ButtonDelete_Click" />
+            <Button x:Name="ButtonUpdate" Grid.Row="3" Grid.Column="3" Content="Update" Click="ButtonUpdate_Click" />
+            <TextBox x:Name="TextBoxInput" Grid.Row="1" Grid.Column="3"/>
+        </Grid>
+
+        <Grid x:Name="GridListBox" Grid.Row="3" Grid.Column="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="5*"/>
+                <ColumnDefinition Width="90*"/>
+                <ColumnDefinition Width="5*"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="5*"/>
+                <RowDefinition Height="90*"/>
+                <RowDefinition Height="5*"/>
+            </Grid.RowDefinitions>
+            <ListBox x:Name="ListBoxItems" Grid.Row="1" Grid.Column="1" SelectionChanged="ListBoxItems_SelectionChanged" SelectionMode="Single"></ListBox>
+        </Grid>
+    </Grid>
+</Window>

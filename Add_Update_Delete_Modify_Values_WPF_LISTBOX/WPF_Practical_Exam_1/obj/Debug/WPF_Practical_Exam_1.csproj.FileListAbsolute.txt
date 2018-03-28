@@ -1,0 +1,26 @@
+F:\Projects\Exams\WPF_Practical_Exam_1\WPF_Practical_Exam_1\bin\Debug\WPF_Practical_Exam_1.exe.config
+F:\Projects\Exams\WPF_Practical_Exam_1\WPF_Practical_Exam_1\bin\Debug\WPF_Practical_Exam_1.exe
+F:\Projects\Exams\WPF_Practical_Exam_1\WPF_Practical_Exam_1\bin\Debug\WPF_Practical_Exam_1.pdb
+F:\Projects\Exams\WPF_Practical_Exam_1\WPF_Practical_Exam_1\obj\Debug\WPF_Practical_Exam_1.csprojResolveAssemblyReference.cache
+F:\Projects\Exams\WPF_Practical_Exam_1\WPF_Practical_Exam_1\obj\Debug\MainWindow.baml
+F:\Projects\Exams\WPF_Practical_Exam_1\WPF_Practical_Exam_1\obj\Debug\MainWindow.g.cs
+F:\Projects\Exams\WPF_Practical_Exam_1\WPF_Practical_Exam_1\obj\Debug\App.g.cs
+F:\Projects\Exams\WPF_Practical_Exam_1\WPF_Practical_Exam_1\obj\Debug\WPF_Practical_Exam_1_MarkupCompile.cache
+F:\Projects\Exams\WPF_Practical_Exam_1\WPF_Practical_Exam_1\obj\Debug\WPF_Practical_Exam_1.g.resources
+F:\Projects\Exams\WPF_Practical_Exam_1\WPF_Practical_Exam_1\obj\Debug\WPF_Practical_Exam_1.Properties.Resources.resources
+F:\Projects\Exams\WPF_Practical_Exam_1\WPF_Practical_Exam_1\obj\Debug\WPF_Practical_Exam_1.csproj.GenerateResource.Cache
+F:\Projects\Exams\WPF_Practical_Exam_1\WPF_Practical_Exam_1\obj\Debug\WPF_Practical_Exam_1.exe
+F:\Projects\Exams\WPF_Practical_Exam_1\WPF_Practical_Exam_1\obj\Debug\WPF_Practical_Exam_1.pdb
+D:\(Sample Projects)\Nimantha\Sample Projects\WPF_Practical_Exam_1\WPF_Practical_Exam_1\bin\Debug\WPF_Practical_Exam_1.exe.config
+D:\(Sample Projects)\Nimantha\Sample Projects\WPF_Practical_Exam_1\WPF_Practical_Exam_1\bin\Debug\WPF_Practical_Exam_1.exe
+D:\(Sample Projects)\Nimantha\Sample Projects\WPF_Practical_Exam_1\WPF_Practical_Exam_1\bin\Debug\WPF_Practical_Exam_1.pdb
+D:\(Sample Projects)\Nimantha\Sample Projects\WPF_Practical_Exam_1\WPF_Practical_Exam_1\obj\Debug\WPF_Practical_Exam_1.csprojResolveAssemblyReference.cache
+D:\(Sample Projects)\Nimantha\Sample Projects\WPF_Practical_Exam_1\WPF_Practical_Exam_1\obj\Debug\MainWindow.baml
+D:\(Sample Projects)\Nimantha\Sample Projects\WPF_Practical_Exam_1\WPF_Practical_Exam_1\obj\Debug\MainWindow.g.cs
+D:\(Sample Projects)\Nimantha\Sample Projects\WPF_Practical_Exam_1\WPF_Practical_Exam_1\obj\Debug\App.g.cs
+D:\(Sample Projects)\Nimantha\Sample Projects\WPF_Practical_Exam_1\WPF_Practical_Exam_1\obj\Debug\WPF_Practical_Exam_1_MarkupCompile.cache
+D:\(Sample Projects)\Nimantha\Sample Projects\WPF_Practical_Exam_1\WPF_Practical_Exam_1\obj\Debug\WPF_Practical_Exam_1.g.resources
+D:\(Sample Projects)\Nimantha\Sample Projects\WPF_Practical_Exam_1\WPF_Practical_Exam_1\obj\Debug\WPF_Practical_Exam_1.Properties.Resources.resources
+D:\(Sample Projects)\Nimantha\Sample Projects\WPF_Practical_Exam_1\WPF_Practical_Exam_1\obj\Debug\WPF_Practical_Exam_1.csproj.GenerateResource.Cache
+D:\(Sample Projects)\Nimantha\Sample Projects\WPF_Practical_Exam_1\WPF_Practical_Exam_1\obj\Debug\WPF_Practical_Exam_1.exe
+D:\(Sample Projects)\Nimantha\Sample Projects\WPF_Practical_Exam_1\WPF_Practical_Exam_1\obj\Debug\WPF_Practical_Exam_1.pdb
