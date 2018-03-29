@@ -1,0 +1,29 @@
+C:\Users\Pulz Lenovo\Desktop\Nadeera\TextBoxUserCcontrol\TextBoxUserCcontrol\bin\Debug\TextBoxUserCcontrol.exe.config
+C:\Users\Pulz Lenovo\Desktop\Nadeera\TextBoxUserCcontrol\TextBoxUserCcontrol\bin\Debug\TextBoxUserCcontrol.exe
+C:\Users\Pulz Lenovo\Desktop\Nadeera\TextBoxUserCcontrol\TextBoxUserCcontrol\bin\Debug\TextBoxUserCcontrol.pdb
+C:\Users\Pulz Lenovo\Desktop\Nadeera\TextBoxUserCcontrol\TextBoxUserCcontrol\obj\Debug\TextBoxUserCcontrol.csprojResolveAssemblyReference.cache
+C:\Users\Pulz Lenovo\Desktop\Nadeera\TextBoxUserCcontrol\TextBoxUserCcontrol\obj\Debug\MainWindow.baml
+C:\Users\Pulz Lenovo\Desktop\Nadeera\TextBoxUserCcontrol\TextBoxUserCcontrol\obj\Debug\MainWindow.g.cs
+C:\Users\Pulz Lenovo\Desktop\Nadeera\TextBoxUserCcontrol\TextBoxUserCcontrol\obj\Debug\App.g.cs
+C:\Users\Pulz Lenovo\Desktop\Nadeera\TextBoxUserCcontrol\TextBoxUserCcontrol\obj\Debug\TextBoxUserCcontrol_MarkupCompile.cache
+C:\Users\Pulz Lenovo\Desktop\Nadeera\TextBoxUserCcontrol\TextBoxUserCcontrol\obj\Debug\TextBoxUserCcontrol.g.resources
+C:\Users\Pulz Lenovo\Desktop\Nadeera\TextBoxUserCcontrol\TextBoxUserCcontrol\obj\Debug\TextBoxUserCcontrol.Properties.Resources.resources
+C:\Users\Pulz Lenovo\Desktop\Nadeera\TextBoxUserCcontrol\TextBoxUserCcontrol\obj\Debug\TextBoxUserCcontrol.csproj.GenerateResource.Cache
+C:\Users\Pulz Lenovo\Desktop\Nadeera\TextBoxUserCcontrol\TextBoxUserCcontrol\obj\Debug\TextBoxUserCcontrol.exe
+C:\Users\Pulz Lenovo\Desktop\Nadeera\TextBoxUserCcontrol\TextBoxUserCcontrol\obj\Debug\TextBoxUserCcontrol.pdb
+F:\Singapore Fintec Expo 2017\TextBoxUserCcontrol\TextBoxUserCcontrol\bin\Debug\TextBoxUserCcontrol.exe.config
+F:\Singapore Fintec Expo 2017\TextBoxUserCcontrol\TextBoxUserCcontrol\obj\Debug\TextBoxUserCcontrol.exe
+F:\Singapore Fintec Expo 2017\TextBoxUserCcontrol\TextBoxUserCcontrol\obj\Debug\TextBoxUserCcontrol.pdb
+C:\Users\User\Desktop\TextBoxUserCcontrol\TextBoxUserCcontrol\bin\Debug\TextBoxUserCcontrol.exe.config
+C:\Users\User\Desktop\TextBoxUserCcontrol\TextBoxUserCcontrol\obj\Debug\TextBoxUserCcontrol.exe
+C:\Users\User\Desktop\TextBoxUserCcontrol\TextBoxUserCcontrol\obj\Debug\TextBoxUserCcontrol.pdb
+C:\Users\User\Desktop\TextBoxUserCcontrol\TextBoxUserCcontrol\bin\Debug\TextBoxUserCcontrol.exe
+C:\Users\User\Desktop\TextBoxUserCcontrol\TextBoxUserCcontrol\bin\Debug\TextBoxUserCcontrol.pdb
+C:\Users\User\Desktop\TextBoxUserCcontrol\TextBoxUserCcontrol\obj\Debug\TextBoxUserCcontrol.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\TextBoxUserCcontrol\TextBoxUserCcontrol\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\TextBoxUserCcontrol\TextBoxUserCcontrol\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\TextBoxUserCcontrol\TextBoxUserCcontrol\obj\Debug\App.g.cs
+C:\Users\User\Desktop\TextBoxUserCcontrol\TextBoxUserCcontrol\obj\Debug\TextBoxUserCcontrol_MarkupCompile.cache
+C:\Users\User\Desktop\TextBoxUserCcontrol\TextBoxUserCcontrol\obj\Debug\TextBoxUserCcontrol.g.resources
+C:\Users\User\Desktop\TextBoxUserCcontrol\TextBoxUserCcontrol\obj\Debug\TextBoxUserCcontrol.Properties.Resources.resources
+C:\Users\User\Desktop\TextBoxUserCcontrol\TextBoxUserCcontrol\obj\Debug\TextBoxUserCcontrol.csproj.GenerateResource.Cache
