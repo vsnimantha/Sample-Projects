@@ -1,0 +1,29 @@
+﻿<Window x:Class="CultureControlApplication.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CultureControlApplication"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="72*"/>
+            <ColumnDefinition Width="360*"/>
+            <ColumnDefinition Width="85*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="15*"/>
+            <RowDefinition Height="58*"/>
+            <RowDefinition Height="51*"/>
+            <RowDefinition Height="60*"/>
+            <RowDefinition Height="135*"/>
+        </Grid.RowDefinitions>
+
+        <ComboBox x:Name="ComboBoxCultureList" Grid.Row="1" Grid.Column="1">
+        </ComboBox>
+
+        <Label x:Name="LabelDemo" Grid.Row="3" Grid.Column="1"></Label>
+
+    </Grid>
+</Window>
