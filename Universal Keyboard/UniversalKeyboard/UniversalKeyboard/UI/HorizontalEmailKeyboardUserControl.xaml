@@ -1,0 +1,105 @@
+﻿<UserControl x:Class="UniversalKeyboard.UI.HorizontalEmailKeyboardUserControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             xmlns:buttonControl="clr-namespace:UniversalKeyboard.UI.BubbleControls"
+             d:DesignHeight="300" d:DesignWidth="600">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1*"/>
+            <ColumnDefinition Width="7*"/>
+            <ColumnDefinition Width="2*"/>
+            <ColumnDefinition Width="7*"/>
+            <ColumnDefinition Width="2*"/>
+            <ColumnDefinition Width="7*"/>
+            <ColumnDefinition Width="2*"/>
+            <ColumnDefinition Width="7*"/>
+            <ColumnDefinition Width="2*"/>
+            <ColumnDefinition Width="7*"/>
+            <ColumnDefinition Width="2*"/>
+            <ColumnDefinition Width="7*"/>
+            <ColumnDefinition Width="2*"/>
+            <ColumnDefinition Width="7*"/>
+            <ColumnDefinition Width="2*"/>
+            <ColumnDefinition Width="7*"/>
+            <ColumnDefinition Width="2*"/>
+            <ColumnDefinition Width="7*"/>
+            <ColumnDefinition Width="2*"/>
+            <ColumnDefinition Width="7*"/>
+            <ColumnDefinition Width="2*"/>
+            <ColumnDefinition Width="7*"/>
+            <ColumnDefinition Width="2*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="2*"/>
+            <RowDefinition Height="14*"/>
+            <RowDefinition Height="2*"/>
+            <RowDefinition Height="14*"/>
+            <RowDefinition Height="2*"/>
+            <RowDefinition Height="14*"/>
+            <RowDefinition Height="2*"/>
+            <RowDefinition Height="14*"/>
+            <RowDefinition Height="2*"/>
+            <RowDefinition Height="14*"/>
+            <RowDefinition Height="4*"/>
+            <RowDefinition Height="14*"/>
+            <RowDefinition Height="2*"/>
+        </Grid.RowDefinitions>
+        <buttonControl:KeyboardButtonUserControl x:Name="ButtonNumber1" Grid.Row="1" Grid.Column="1" ></buttonControl:KeyboardButtonUserControl>
+        <buttonControl:KeyboardButtonUserControl x:Name="ButtonNumber2" Grid.Row="1" Grid.Column="3" ></buttonControl:KeyboardButtonUserControl>
+        <buttonControl:KeyboardButtonUserControl x:Name="ButtonNumber3" Grid.Row="1" Grid.Column="5" ></buttonControl:KeyboardButtonUserControl>
+        <buttonControl:KeyboardButtonUserControl x:Name="ButtonNumber4" Grid.Row="1" Grid.Column="7" ></buttonControl:KeyboardButtonUserControl>
+        <buttonControl:KeyboardButtonUserControl x:Name="ButtonNumber5" Grid.Row="1" Grid.Column="9" ></buttonControl:KeyboardButtonUserControl>
+        <buttonControl:KeyboardButtonUserControl x:Name="ButtonNumber6" Grid.Row="1" Grid.Column="11" ></buttonControl:KeyboardButtonUserControl>
+        <buttonControl:KeyboardButtonUserControl x:Name="ButtonNumber7" Grid.Row="1" Grid.Column="13" ></buttonControl:KeyboardButtonUserControl>
+        <buttonControl:KeyboardButtonUserControl x:Name="ButtonNumber8" Grid.Row="1" Grid.Column="15" ></buttonControl:KeyboardButtonUserControl>
+        <buttonControl:KeyboardButtonUserControl x:Name="ButtonNumber9" Grid.Row="1" Grid.Column="17" ></buttonControl:KeyboardButtonUserControl>
+        <buttonControl:KeyboardButtonUserControl x:Name="ButtonNumber0" Grid.Row="1" Grid.Column="19" ></buttonControl:KeyboardButtonUserControl>
+
+        <buttonControl:KeyboardButtonUserControl x:Name="ButtonLetterA" Grid.Row="3" Grid.Column="1" ></buttonControl:KeyboardButtonUserControl>
+        <buttonControl:KeyboardButtonUserControl x:Name="ButtonLetterB" Grid.Row="3" Grid.Column="3" ></buttonControl:KeyboardButtonUserControl>
+        <buttonControl:KeyboardButtonUserControl x:Name="ButtonLetterC" Grid.Row="3" Grid.Column="5" ></buttonControl:KeyboardButtonUserControl>
+        <buttonControl:KeyboardButtonUserControl x:Name="ButtonLetterD" Grid.Row="3" Grid.Column="7" ></buttonControl:KeyboardButtonUserControl>
+        <buttonControl:KeyboardButtonUserControl x:Name="ButtonLetterE" Grid.Row="3" Grid.Column="9" ></buttonControl:KeyboardButtonUserControl>
+        <buttonControl:KeyboardButtonUserControl x:Name="ButtonLetterF" Grid.Row="3" Grid.Column="11" ></buttonControl:KeyboardButtonUserControl>
+        <buttonControl:KeyboardButtonUserControl x:Name="ButtonLetterG" Grid.Row="3" Grid.Column="13" ></buttonControl:KeyboardButtonUserControl>
+        <buttonControl:KeyboardButtonUserControl x:Name="ButtonLetterH" Grid.Row="3" Grid.Column="15" ></buttonControl:KeyboardButtonUserControl>
+        <buttonControl:KeyboardButtonUserControl x:Name="ButtonLetterI" Grid.Row="3" Grid.Column="17" ></buttonControl:KeyboardButtonUserControl>
+        <buttonControl:KeyboardButtonUserControl x:Name="ButtonLetterJ" Grid.Row="3" Grid.Column="19" ></buttonControl:KeyboardButtonUserControl>
+
+        <buttonControl:KeyboardButtonUserControl x:Name="ButtonLetterK" Grid.Row="5" Grid.Column="1" ></buttonControl:KeyboardButtonUserControl>
+        <buttonControl:KeyboardButtonUserControl x:Name="ButtonLetterL" Grid.Row="5" Grid.Column="3" ></buttonControl:KeyboardButtonUserControl>
+        <buttonControl:KeyboardButtonUserControl x:Name="ButtonLetterM" Grid.Row="5" Grid.Column="5" ></buttonControl:KeyboardButtonUserControl>
+        <buttonControl:KeyboardButtonUserControl x:Name="ButtonLetterN" Grid.Row="5" Grid.Column="7" ></buttonControl:KeyboardButtonUserControl>
+        <buttonControl:KeyboardButtonUserControl x:Name="ButtonLetterO" Grid.Row="5" Grid.Column="9" ></buttonControl:KeyboardButtonUserControl>
+        <buttonControl:KeyboardButtonUserControl x:Name="ButtonLetterP" Grid.Row="5" Grid.Column="11" ></buttonControl:KeyboardButtonUserControl>
+        <buttonControl:KeyboardButtonUserControl x:Name="ButtonLetterQ" Grid.Row="5" Grid.Column="13" ></buttonControl:KeyboardButtonUserControl>
+        <buttonControl:KeyboardButtonUserControl x:Name="ButtonLetterR" Grid.Row="5" Grid.Column="15" ></buttonControl:KeyboardButtonUserControl>
+        <buttonControl:KeyboardButtonUserControl x:Name="ButtonLetterS" Grid.Row="5" Grid.Column="17" ></buttonControl:KeyboardButtonUserControl>
+        <buttonControl:KeyboardButtonUserControl x:Name="ButtonLetterT" Grid.Row="5" Grid.Column="19" ></buttonControl:KeyboardButtonUserControl>
+
+        <buttonControl:KeyboardButtonUserControl x:Name="ButtonLetterU" Grid.Row="7" Grid.Column="1" ></buttonControl:KeyboardButtonUserControl>
+        <buttonControl:KeyboardButtonUserControl x:Name="ButtonLetterV" Grid.Row="7" Grid.Column="3" ></buttonControl:KeyboardButtonUserControl>
+        <buttonControl:KeyboardButtonUserControl x:Name="ButtonLetterW" Grid.Row="7" Grid.Column="5" ></buttonControl:KeyboardButtonUserControl>
+        <buttonControl:KeyboardButtonUserControl x:Name="ButtonLetterX" Grid.Row="7" Grid.Column="7" ></buttonControl:KeyboardButtonUserControl>
+        <buttonControl:KeyboardButtonUserControl x:Name="ButtonLetterY" Grid.Row="7" Grid.Column="9" ></buttonControl:KeyboardButtonUserControl>
+        <buttonControl:KeyboardButtonUserControl x:Name="ButtonLetterZ" Grid.Row="7" Grid.Column="11" ></buttonControl:KeyboardButtonUserControl>
+        <buttonControl:KeyboardButtonUserControl x:Name="ButtonLetterFullStop" Grid.Row="7" Grid.Column="13" ></buttonControl:KeyboardButtonUserControl>
+        <buttonControl:KeyboardButtonUserControl x:Name="ButtonLetterUnderscore" Grid.Row="7" Grid.Column="15" ></buttonControl:KeyboardButtonUserControl>
+        <buttonControl:KeyboardButtonUserControl x:Name="ButtonLetterDash" Grid.Row="7" Grid.Column="17" ></buttonControl:KeyboardButtonUserControl>
+        <buttonControl:KeyboardButtonUserControl x:Name="ButtonLetterAt" Grid.Row="7" Grid.Column="19" ></buttonControl:KeyboardButtonUserControl>
+        <buttonControl:KeyboardButtonUserControl x:Name="ButtonLetterForwardSlash" Grid.Row="7" Grid.Column="21" ></buttonControl:KeyboardButtonUserControl>
+
+        <buttonControl:KeyboardButtonUserControl x:Name="ButtonSpace" Grid.Row="9" Grid.Column="1" Grid.ColumnSpan="9" ></buttonControl:KeyboardButtonUserControl>
+        <buttonControl:KeyboardButtonUserControl x:Name="ButtonDotCom" Grid.Row="9" Grid.Column="11" ></buttonControl:KeyboardButtonUserControl>
+        <buttonControl:KeyboardButtonUserControl x:Name="ButtonDotNet" Grid.Row="9" Grid.Column="13" ></buttonControl:KeyboardButtonUserControl>
+        <buttonControl:KeyboardButtonUserControl x:Name="ButtonDotEdu" Grid.Row="9" Grid.Column="15" ></buttonControl:KeyboardButtonUserControl>
+        <buttonControl:KeyboardButtonUserControl x:Name="ButtonDotLk" Grid.Row="9" Grid.Column="17" ></buttonControl:KeyboardButtonUserControl>
+        <buttonControl:KeyboardButtonUserControl x:Name="ButtonBackSpace" Grid.Row="9" Grid.Column="19" Grid.ColumnSpan="3"></buttonControl:KeyboardButtonUserControl>
+   
+        <buttonControl:KeyboardButtonUserControl x:Name="ButtonSubmit" Grid.Row="11" Grid.Column="7" Grid.ColumnSpan="5"></buttonControl:KeyboardButtonUserControl>
+
+    </Grid>
+</UserControl>
