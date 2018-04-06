@@ -1,0 +1,14 @@
+D:\(Sample Projects)\Nimantha\Sample Projects\C#\EmailValidator\EmailValidator\bin\Debug\EmailValidator.exe.config
+D:\(Sample Projects)\Nimantha\Sample Projects\C#\EmailValidator\EmailValidator\bin\Debug\EmailValidator.exe
+D:\(Sample Projects)\Nimantha\Sample Projects\C#\EmailValidator\EmailValidator\bin\Debug\EmailValidator.pdb
+D:\(Sample Projects)\Nimantha\Sample Projects\C#\EmailValidator\EmailValidator\obj\Debug\EmailValidator.csprojResolveAssemblyReference.cache
+D:\(Sample Projects)\Nimantha\Sample Projects\C#\EmailValidator\EmailValidator\obj\Debug\MainWindow.g.cs
+D:\(Sample Projects)\Nimantha\Sample Projects\C#\EmailValidator\EmailValidator\obj\Debug\App.g.cs
+D:\(Sample Projects)\Nimantha\Sample Projects\C#\EmailValidator\EmailValidator\obj\Debug\EmailValidator_MarkupCompile.cache
+D:\(Sample Projects)\Nimantha\Sample Projects\C#\EmailValidator\EmailValidator\obj\Debug\EmailValidator_MarkupCompile.lref
+D:\(Sample Projects)\Nimantha\Sample Projects\C#\EmailValidator\EmailValidator\obj\Debug\MainWindow.baml
+D:\(Sample Projects)\Nimantha\Sample Projects\C#\EmailValidator\EmailValidator\obj\Debug\EmailValidator.g.resources
+D:\(Sample Projects)\Nimantha\Sample Projects\C#\EmailValidator\EmailValidator\obj\Debug\EmailValidator.Properties.Resources.resources
+D:\(Sample Projects)\Nimantha\Sample Projects\C#\EmailValidator\EmailValidator\obj\Debug\EmailValidator.csproj.GenerateResource.Cache
+D:\(Sample Projects)\Nimantha\Sample Projects\C#\EmailValidator\EmailValidator\obj\Debug\EmailValidator.exe
+D:\(Sample Projects)\Nimantha\Sample Projects\C#\EmailValidator\EmailValidator\obj\Debug\EmailValidator.pdb
